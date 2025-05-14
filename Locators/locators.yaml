@@ -1,0 +1,62 @@
+TRT_Page:
+  USERNAME:
+    by: id
+    value: userLoginname
+  PASSWORD:
+    by: id
+    value: inputPassword
+  LOGIN_BUTTON:
+    by: class_name
+    value: btn.btn-md.btn-default.btn-block
+  SUCCESS_INDICATOR:
+    by: class_name
+    value: dashboard-container
+  LOGOUT_LINK:
+    by: link_text
+    value: Logout
+  LOGIN_FORM:
+    by: class_name
+    value: ng-pristine.ng-invalid.ng-invalid-required
+
+LABGATE_Page:
+  USERNAME:
+    by: id
+    value: login
+  PASSWORD:
+    by: id
+    value: passwd
+  LOGIN_BUTTON:
+    by: link_text
+    value: Submit
+  DETECT_CITRIX_BUTTON:
+    by: link_text
+    value: Detect Citrix Workspace app
+  SUCCESS_INDICATOR:
+    by: class_name
+    value: dashboard-container
+  LOGOUT_LINK:
+    by: link_text
+    value: Logout
+  LOGIN_FORM:
+    by: class_name
+    value: ng-pristine.ng-invalid.ng-invalid-required
+
+TMS_Page:
+  USERNAME:
+    by: id
+    value: userLoginname
+  PASSWORD:
+    by: id
+    value: inputPassword
+  LOGIN_BUTTON:
+    by: class_name
+    value: btn.btn-md.btn-default.btn-block
+  SUCCESS_INDICATOR:
+    by: class_name
+    value: dashboard-container
+  LOGOUT_LINK:
+    by: link_text
+    value: Logout
+  LOGIN_FORM:
+    by: class_name
+    value: ng-pristine.ng-invalid.ng-invalid-required
