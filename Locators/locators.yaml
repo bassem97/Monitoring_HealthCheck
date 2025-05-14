@@ -33,13 +33,19 @@ LABGATE_Page:
     value: Detect Citrix Workspace app
   SUCCESS_INDICATOR:
     by: class_name
-    value: dashboard-container
+    value: store-header.theme-header-bgcolor
+  SETTINGS_BUTTON:
+    by: class_name
+    value: embedded-settings-icon-svg
   LOGOUT_LINK:
     by: link_text
-    value: Logout
+    value: Log off
+  LOGOFF_SUCCESS_INDICATOR:
+    by: id
+    value: Log_On
   LOGIN_FORM:
     by: class_name
-    value: ng-pristine.ng-invalid.ng-invalid-required
+    value: form.insertPoint.credentialform
 
 TMS_Page:
   USERNAME:

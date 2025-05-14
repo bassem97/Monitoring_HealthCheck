@@ -8,7 +8,6 @@ class WebDriver:
         self.options = Options()
         self.options.add_argument("--ignore-certificate-errors") # Ignore certificate errors
         self.options.add_argument("--allow-insecure-localhost") # Allow self-signed certificates
-        self.options.add_argument("--no-sandbox")
         # self.options.add_argument("--headless")  # Uncomment for pipeline
 
         # Initialize the Service

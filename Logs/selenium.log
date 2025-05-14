@@ -6173,3 +6173,1199 @@ Stacktrace:
 #18 0x7f22eaafb609 start_thread
 
 2025-05-14 11:40:59 - INFO - __main__ - Test completed
+2025-05-14 11:49:05 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+
+2025-05-14 11:49:05 - ERROR - __main__ - Error during test: Message: 
+
+2025-05-14 11:49:07 - INFO - __main__ - Test completed
+2025-05-14 11:53:18 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+
+2025-05-14 11:53:18 - ERROR - __main__ - Error during test: Message: 
+
+2025-05-14 11:53:20 - INFO - __main__ - Test completed
+2025-05-14 11:56:44 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+
+2025-05-14 11:56:44 - ERROR - __main__ - Error during test: Message: 
+
+2025-05-14 11:56:46 - INFO - __main__ - Test completed
+2025-05-14 11:57:11 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55fd5a973d0a <unknown>
+#1 0x55fd5a4245f0 <unknown>
+#2 0x55fd5a40a48e <unknown>
+#3 0x55fd5a433109 <unknown>
+#4 0x55fd5a4a3f49 <unknown>
+#5 0x55fd5a4c0ffc <unknown>
+#6 0x55fd5a49b433 <unknown>
+#7 0x55fd5a467ea3 <unknown>
+#8 0x55fd5a468b01 <unknown>
+#9 0x55fd5a938b5b <unknown>
+#10 0x55fd5a93ca41 <unknown>
+#11 0x55fd5a91fc52 <unknown>
+#12 0x55fd5a93d5b4 <unknown>
+#13 0x55fd5a903f0f <unknown>
+#14 0x55fd5a961db8 <unknown>
+#15 0x55fd5a961f96 <unknown>
+#16 0x55fd5a972b56 <unknown>
+#17 0x7f27640ca609 start_thread
+
+2025-05-14 11:57:11 - ERROR - __main__ - Error during test: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55fd5a973d0a <unknown>
+#1 0x55fd5a4245f0 <unknown>
+#2 0x55fd5a40a48e <unknown>
+#3 0x55fd5a433109 <unknown>
+#4 0x55fd5a4a3f49 <unknown>
+#5 0x55fd5a4c0ffc <unknown>
+#6 0x55fd5a49b433 <unknown>
+#7 0x55fd5a467ea3 <unknown>
+#8 0x55fd5a468b01 <unknown>
+#9 0x55fd5a938b5b <unknown>
+#10 0x55fd5a93ca41 <unknown>
+#11 0x55fd5a91fc52 <unknown>
+#12 0x55fd5a93d5b4 <unknown>
+#13 0x55fd5a903f0f <unknown>
+#14 0x55fd5a961db8 <unknown>
+#15 0x55fd5a961f96 <unknown>
+#16 0x55fd5a972b56 <unknown>
+#17 0x7f27640ca609 start_thread
+
+2025-05-14 11:57:13 - INFO - __main__ - Test completed
+2025-05-14 11:59:13 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x5634d36bad0a <unknown>
+#1 0x5634d316b5f0 <unknown>
+#2 0x5634d31bca33 <unknown>
+#3 0x5634d31bcc21 <unknown>
+#4 0x5634d320b274 <unknown>
+#5 0x5634d31e268d <unknown>
+#6 0x5634d3208660 <unknown>
+#7 0x5634d31e2433 <unknown>
+#8 0x5634d31aeea3 <unknown>
+#9 0x5634d31afb01 <unknown>
+#10 0x5634d367fb5b <unknown>
+#11 0x5634d3683a41 <unknown>
+#12 0x5634d3666c52 <unknown>
+#13 0x5634d36845b4 <unknown>
+#14 0x5634d364af0f <unknown>
+#15 0x5634d36a8db8 <unknown>
+#16 0x5634d36a8f96 <unknown>
+#17 0x5634d36b9b56 <unknown>
+#18 0x7f4361f59609 start_thread
+
+2025-05-14 11:59:13 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x5634d36bad0a <unknown>
+#1 0x5634d316b5f0 <unknown>
+#2 0x5634d31bca33 <unknown>
+#3 0x5634d31bcc21 <unknown>
+#4 0x5634d320b274 <unknown>
+#5 0x5634d31e268d <unknown>
+#6 0x5634d3208660 <unknown>
+#7 0x5634d31e2433 <unknown>
+#8 0x5634d31aeea3 <unknown>
+#9 0x5634d31afb01 <unknown>
+#10 0x5634d367fb5b <unknown>
+#11 0x5634d3683a41 <unknown>
+#12 0x5634d3666c52 <unknown>
+#13 0x5634d36845b4 <unknown>
+#14 0x5634d364af0f <unknown>
+#15 0x5634d36a8db8 <unknown>
+#16 0x5634d36a8f96 <unknown>
+#17 0x5634d36b9b56 <unknown>
+#18 0x7f4361f59609 start_thread
+
+2025-05-14 11:59:15 - INFO - __main__ - Test completed
+2025-05-14 12:00:58 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:01:00 - INFO - __main__ - Test completed
+2025-05-14 12:03:06 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:03:08 - INFO - __main__ - Test completed
+2025-05-14 12:04:52 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x55dd1595fd0a <unknown>
+#1 0x55dd154105f0 <unknown>
+#2 0x55dd15461a33 <unknown>
+#3 0x55dd15461c21 <unknown>
+#4 0x55dd154b0274 <unknown>
+#5 0x55dd1548768d <unknown>
+#6 0x55dd154ad660 <unknown>
+#7 0x55dd15487433 <unknown>
+#8 0x55dd15453ea3 <unknown>
+#9 0x55dd15454b01 <unknown>
+#10 0x55dd15924b5b <unknown>
+#11 0x55dd15928a41 <unknown>
+#12 0x55dd1590bc52 <unknown>
+#13 0x55dd159295b4 <unknown>
+#14 0x55dd158eff0f <unknown>
+#15 0x55dd1594ddb8 <unknown>
+#16 0x55dd1594df96 <unknown>
+#17 0x55dd1595eb56 <unknown>
+#18 0x7f778ab51609 start_thread
+
+2025-05-14 12:04:52 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55dd1595fd0a <unknown>
+#1 0x55dd154105f0 <unknown>
+#2 0x55dd15461a33 <unknown>
+#3 0x55dd15461c21 <unknown>
+#4 0x55dd154b0274 <unknown>
+#5 0x55dd1548768d <unknown>
+#6 0x55dd154ad660 <unknown>
+#7 0x55dd15487433 <unknown>
+#8 0x55dd15453ea3 <unknown>
+#9 0x55dd15454b01 <unknown>
+#10 0x55dd15924b5b <unknown>
+#11 0x55dd15928a41 <unknown>
+#12 0x55dd1590bc52 <unknown>
+#13 0x55dd159295b4 <unknown>
+#14 0x55dd158eff0f <unknown>
+#15 0x55dd1594ddb8 <unknown>
+#16 0x55dd1594df96 <unknown>
+#17 0x55dd1595eb56 <unknown>
+#18 0x7f778ab51609 start_thread
+
+2025-05-14 12:04:54 - INFO - __main__ - Test completed
+2025-05-14 12:05:15 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x557444863d0a <unknown>
+#1 0x5574443145f0 <unknown>
+#2 0x557444365a33 <unknown>
+#3 0x557444365c21 <unknown>
+#4 0x5574443b4274 <unknown>
+#5 0x55744438b68d <unknown>
+#6 0x5574443b1660 <unknown>
+#7 0x55744438b433 <unknown>
+#8 0x557444357ea3 <unknown>
+#9 0x557444358b01 <unknown>
+#10 0x557444828b5b <unknown>
+#11 0x55744482ca41 <unknown>
+#12 0x55744480fc52 <unknown>
+#13 0x55744482d5b4 <unknown>
+#14 0x5574447f3f0f <unknown>
+#15 0x557444851db8 <unknown>
+#16 0x557444851f96 <unknown>
+#17 0x557444862b56 <unknown>
+#18 0x7fc2557e1609 start_thread
+
+2025-05-14 12:05:15 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x557444863d0a <unknown>
+#1 0x5574443145f0 <unknown>
+#2 0x557444365a33 <unknown>
+#3 0x557444365c21 <unknown>
+#4 0x5574443b4274 <unknown>
+#5 0x55744438b68d <unknown>
+#6 0x5574443b1660 <unknown>
+#7 0x55744438b433 <unknown>
+#8 0x557444357ea3 <unknown>
+#9 0x557444358b01 <unknown>
+#10 0x557444828b5b <unknown>
+#11 0x55744482ca41 <unknown>
+#12 0x55744480fc52 <unknown>
+#13 0x55744482d5b4 <unknown>
+#14 0x5574447f3f0f <unknown>
+#15 0x557444851db8 <unknown>
+#16 0x557444851f96 <unknown>
+#17 0x557444862b56 <unknown>
+#18 0x7fc2557e1609 start_thread
+
+2025-05-14 12:05:17 - INFO - __main__ - Test completed
+2025-05-14 12:08:52 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x565125929d0a <unknown>
+#1 0x5651253da5f0 <unknown>
+#2 0x5651253c048e <unknown>
+#3 0x5651253e9109 <unknown>
+#4 0x565125459f49 <unknown>
+#5 0x565125476ffc <unknown>
+#6 0x565125451433 <unknown>
+#7 0x56512541dea3 <unknown>
+#8 0x56512541eb01 <unknown>
+#9 0x5651258eeb5b <unknown>
+#10 0x5651258f2a41 <unknown>
+#11 0x5651258d5c52 <unknown>
+#12 0x5651258f35b4 <unknown>
+#13 0x5651258b9f0f <unknown>
+#14 0x565125917db8 <unknown>
+#15 0x565125917f96 <unknown>
+#16 0x565125928b56 <unknown>
+#17 0x7f70be53b609 start_thread
+
+2025-05-14 12:08:52 - ERROR - __main__ - Error during test: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x565125929d0a <unknown>
+#1 0x5651253da5f0 <unknown>
+#2 0x5651253c048e <unknown>
+#3 0x5651253e9109 <unknown>
+#4 0x565125459f49 <unknown>
+#5 0x565125476ffc <unknown>
+#6 0x565125451433 <unknown>
+#7 0x56512541dea3 <unknown>
+#8 0x56512541eb01 <unknown>
+#9 0x5651258eeb5b <unknown>
+#10 0x5651258f2a41 <unknown>
+#11 0x5651258d5c52 <unknown>
+#12 0x5651258f35b4 <unknown>
+#13 0x5651258b9f0f <unknown>
+#14 0x565125917db8 <unknown>
+#15 0x565125917f96 <unknown>
+#16 0x565125928b56 <unknown>
+#17 0x7f70be53b609 start_thread
+
+2025-05-14 12:08:54 - INFO - __main__ - Test completed
+2025-05-14 12:09:23 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x562640a68d0a <unknown>
+#1 0x5626405195f0 <unknown>
+#2 0x56264056aa33 <unknown>
+#3 0x56264056ac21 <unknown>
+#4 0x5626405b9274 <unknown>
+#5 0x56264059068d <unknown>
+#6 0x5626405b6660 <unknown>
+#7 0x562640590433 <unknown>
+#8 0x56264055cea3 <unknown>
+#9 0x56264055db01 <unknown>
+#10 0x562640a2db5b <unknown>
+#11 0x562640a31a41 <unknown>
+#12 0x562640a14c52 <unknown>
+#13 0x562640a325b4 <unknown>
+#14 0x5626409f8f0f <unknown>
+#15 0x562640a56db8 <unknown>
+#16 0x562640a56f96 <unknown>
+#17 0x562640a67b56 <unknown>
+#18 0x7f51fab96609 start_thread
+
+2025-05-14 12:09:23 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x562640a68d0a <unknown>
+#1 0x5626405195f0 <unknown>
+#2 0x56264056aa33 <unknown>
+#3 0x56264056ac21 <unknown>
+#4 0x5626405b9274 <unknown>
+#5 0x56264059068d <unknown>
+#6 0x5626405b6660 <unknown>
+#7 0x562640590433 <unknown>
+#8 0x56264055cea3 <unknown>
+#9 0x56264055db01 <unknown>
+#10 0x562640a2db5b <unknown>
+#11 0x562640a31a41 <unknown>
+#12 0x562640a14c52 <unknown>
+#13 0x562640a325b4 <unknown>
+#14 0x5626409f8f0f <unknown>
+#15 0x562640a56db8 <unknown>
+#16 0x562640a56f96 <unknown>
+#17 0x562640a67b56 <unknown>
+#18 0x7f51fab96609 start_thread
+
+2025-05-14 12:09:25 - INFO - __main__ - Test completed
+2025-05-14 12:09:39 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x56137416fd0a <unknown>
+#1 0x561373c205f0 <unknown>
+#2 0x561373c0648e <unknown>
+#3 0x561373c2f109 <unknown>
+#4 0x561373c9ff49 <unknown>
+#5 0x561373cbcffc <unknown>
+#6 0x561373c97433 <unknown>
+#7 0x561373c63ea3 <unknown>
+#8 0x561373c64b01 <unknown>
+#9 0x561374134b5b <unknown>
+#10 0x561374138a41 <unknown>
+#11 0x56137411bc52 <unknown>
+#12 0x5613741395b4 <unknown>
+#13 0x5613740fff0f <unknown>
+#14 0x56137415ddb8 <unknown>
+#15 0x56137415df96 <unknown>
+#16 0x56137416eb56 <unknown>
+#17 0x7f78934f8609 start_thread
+
+2025-05-14 12:09:39 - ERROR - __main__ - Error during test: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x56137416fd0a <unknown>
+#1 0x561373c205f0 <unknown>
+#2 0x561373c0648e <unknown>
+#3 0x561373c2f109 <unknown>
+#4 0x561373c9ff49 <unknown>
+#5 0x561373cbcffc <unknown>
+#6 0x561373c97433 <unknown>
+#7 0x561373c63ea3 <unknown>
+#8 0x561373c64b01 <unknown>
+#9 0x561374134b5b <unknown>
+#10 0x561374138a41 <unknown>
+#11 0x56137411bc52 <unknown>
+#12 0x5613741395b4 <unknown>
+#13 0x5613740fff0f <unknown>
+#14 0x56137415ddb8 <unknown>
+#15 0x56137415df96 <unknown>
+#16 0x56137416eb56 <unknown>
+#17 0x7f78934f8609 start_thread
+
+2025-05-14 12:09:41 - INFO - __main__ - Test completed
+2025-05-14 12:10:26 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x561ff2bcbd0a <unknown>
+#1 0x561ff267c5f0 <unknown>
+#2 0x561ff266248e <unknown>
+#3 0x561ff268b109 <unknown>
+#4 0x561ff26fbf49 <unknown>
+#5 0x561ff2718ffc <unknown>
+#6 0x561ff26f3433 <unknown>
+#7 0x561ff26bfea3 <unknown>
+#8 0x561ff26c0b01 <unknown>
+#9 0x561ff2b90b5b <unknown>
+#10 0x561ff2b94a41 <unknown>
+#11 0x561ff2b77c52 <unknown>
+#12 0x561ff2b955b4 <unknown>
+#13 0x561ff2b5bf0f <unknown>
+#14 0x561ff2bb9db8 <unknown>
+#15 0x561ff2bb9f96 <unknown>
+#16 0x561ff2bcab56 <unknown>
+#17 0x7fc1c68a9609 start_thread
+
+2025-05-14 12:10:26 - ERROR - __main__ - Error during test: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x561ff2bcbd0a <unknown>
+#1 0x561ff267c5f0 <unknown>
+#2 0x561ff266248e <unknown>
+#3 0x561ff268b109 <unknown>
+#4 0x561ff26fbf49 <unknown>
+#5 0x561ff2718ffc <unknown>
+#6 0x561ff26f3433 <unknown>
+#7 0x561ff26bfea3 <unknown>
+#8 0x561ff26c0b01 <unknown>
+#9 0x561ff2b90b5b <unknown>
+#10 0x561ff2b94a41 <unknown>
+#11 0x561ff2b77c52 <unknown>
+#12 0x561ff2b955b4 <unknown>
+#13 0x561ff2b5bf0f <unknown>
+#14 0x561ff2bb9db8 <unknown>
+#15 0x561ff2bb9f96 <unknown>
+#16 0x561ff2bcab56 <unknown>
+#17 0x7fc1c68a9609 start_thread
+
+2025-05-14 12:10:28 - INFO - __main__ - Test completed
+2025-05-14 12:11:56 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x557961a03d0a <unknown>
+#1 0x5579614b45f0 <unknown>
+#2 0x557961505a33 <unknown>
+#3 0x557961505c21 <unknown>
+#4 0x557961554274 <unknown>
+#5 0x55796152b68d <unknown>
+#6 0x557961551660 <unknown>
+#7 0x55796152b433 <unknown>
+#8 0x5579614f7ea3 <unknown>
+#9 0x5579614f8b01 <unknown>
+#10 0x5579619c8b5b <unknown>
+#11 0x5579619cca41 <unknown>
+#12 0x5579619afc52 <unknown>
+#13 0x5579619cd5b4 <unknown>
+#14 0x557961993f0f <unknown>
+#15 0x5579619f1db8 <unknown>
+#16 0x5579619f1f96 <unknown>
+#17 0x557961a02b56 <unknown>
+#18 0x7fd43da24609 start_thread
+
+2025-05-14 12:11:56 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x557961a03d0a <unknown>
+#1 0x5579614b45f0 <unknown>
+#2 0x557961505a33 <unknown>
+#3 0x557961505c21 <unknown>
+#4 0x557961554274 <unknown>
+#5 0x55796152b68d <unknown>
+#6 0x557961551660 <unknown>
+#7 0x55796152b433 <unknown>
+#8 0x5579614f7ea3 <unknown>
+#9 0x5579614f8b01 <unknown>
+#10 0x5579619c8b5b <unknown>
+#11 0x5579619cca41 <unknown>
+#12 0x5579619afc52 <unknown>
+#13 0x5579619cd5b4 <unknown>
+#14 0x557961993f0f <unknown>
+#15 0x5579619f1db8 <unknown>
+#16 0x5579619f1f96 <unknown>
+#17 0x557961a02b56 <unknown>
+#18 0x7fd43da24609 start_thread
+
+2025-05-14 12:11:58 - INFO - __main__ - Test completed
+2025-05-14 12:12:35 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x55b3da4cad0a <unknown>
+#1 0x55b3d9f7b5f0 <unknown>
+#2 0x55b3d9fcca33 <unknown>
+#3 0x55b3d9fccc21 <unknown>
+#4 0x55b3da01b274 <unknown>
+#5 0x55b3d9ff268d <unknown>
+#6 0x55b3da018660 <unknown>
+#7 0x55b3d9ff2433 <unknown>
+#8 0x55b3d9fbeea3 <unknown>
+#9 0x55b3d9fbfb01 <unknown>
+#10 0x55b3da48fb5b <unknown>
+#11 0x55b3da493a41 <unknown>
+#12 0x55b3da476c52 <unknown>
+#13 0x55b3da4945b4 <unknown>
+#14 0x55b3da45af0f <unknown>
+#15 0x55b3da4b8db8 <unknown>
+#16 0x55b3da4b8f96 <unknown>
+#17 0x55b3da4c9b56 <unknown>
+#18 0x7fbc4d99d609 start_thread
+
+2025-05-14 12:12:35 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55b3da4cad0a <unknown>
+#1 0x55b3d9f7b5f0 <unknown>
+#2 0x55b3d9fcca33 <unknown>
+#3 0x55b3d9fccc21 <unknown>
+#4 0x55b3da01b274 <unknown>
+#5 0x55b3d9ff268d <unknown>
+#6 0x55b3da018660 <unknown>
+#7 0x55b3d9ff2433 <unknown>
+#8 0x55b3d9fbeea3 <unknown>
+#9 0x55b3d9fbfb01 <unknown>
+#10 0x55b3da48fb5b <unknown>
+#11 0x55b3da493a41 <unknown>
+#12 0x55b3da476c52 <unknown>
+#13 0x55b3da4945b4 <unknown>
+#14 0x55b3da45af0f <unknown>
+#15 0x55b3da4b8db8 <unknown>
+#16 0x55b3da4b8f96 <unknown>
+#17 0x55b3da4c9b56 <unknown>
+#18 0x7fbc4d99d609 start_thread
+
+2025-05-14 12:12:37 - INFO - __main__ - Test completed
+2025-05-14 12:13:21 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x55d84c4a0d0a <unknown>
+#1 0x55d84bf515f0 <unknown>
+#2 0x55d84bfa2a33 <unknown>
+#3 0x55d84bfa2c21 <unknown>
+#4 0x55d84bff1274 <unknown>
+#5 0x55d84bfc868d <unknown>
+#6 0x55d84bfee660 <unknown>
+#7 0x55d84bfc8433 <unknown>
+#8 0x55d84bf94ea3 <unknown>
+#9 0x55d84bf95b01 <unknown>
+#10 0x55d84c465b5b <unknown>
+#11 0x55d84c469a41 <unknown>
+#12 0x55d84c44cc52 <unknown>
+#13 0x55d84c46a5b4 <unknown>
+#14 0x55d84c430f0f <unknown>
+#15 0x55d84c48edb8 <unknown>
+#16 0x55d84c48ef96 <unknown>
+#17 0x55d84c49fb56 <unknown>
+#18 0x7f5ada1d9609 start_thread
+
+2025-05-14 12:13:21 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55d84c4a0d0a <unknown>
+#1 0x55d84bf515f0 <unknown>
+#2 0x55d84bfa2a33 <unknown>
+#3 0x55d84bfa2c21 <unknown>
+#4 0x55d84bff1274 <unknown>
+#5 0x55d84bfc868d <unknown>
+#6 0x55d84bfee660 <unknown>
+#7 0x55d84bfc8433 <unknown>
+#8 0x55d84bf94ea3 <unknown>
+#9 0x55d84bf95b01 <unknown>
+#10 0x55d84c465b5b <unknown>
+#11 0x55d84c469a41 <unknown>
+#12 0x55d84c44cc52 <unknown>
+#13 0x55d84c46a5b4 <unknown>
+#14 0x55d84c430f0f <unknown>
+#15 0x55d84c48edb8 <unknown>
+#16 0x55d84c48ef96 <unknown>
+#17 0x55d84c49fb56 <unknown>
+#18 0x7f5ada1d9609 start_thread
+
+2025-05-14 12:13:23 - INFO - __main__ - Test completed
+2025-05-14 12:15:02 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x55e58cd4cd0a <unknown>
+#1 0x55e58c7fd5f0 <unknown>
+#2 0x55e58c84ea33 <unknown>
+#3 0x55e58c84ec21 <unknown>
+#4 0x55e58c89d274 <unknown>
+#5 0x55e58c87468d <unknown>
+#6 0x55e58c89a660 <unknown>
+#7 0x55e58c874433 <unknown>
+#8 0x55e58c840ea3 <unknown>
+#9 0x55e58c841b01 <unknown>
+#10 0x55e58cd11b5b <unknown>
+#11 0x55e58cd15a41 <unknown>
+#12 0x55e58ccf8c52 <unknown>
+#13 0x55e58cd165b4 <unknown>
+#14 0x55e58ccdcf0f <unknown>
+#15 0x55e58cd3adb8 <unknown>
+#16 0x55e58cd3af96 <unknown>
+#17 0x55e58cd4bb56 <unknown>
+#18 0x7fe950904609 start_thread
+
+2025-05-14 12:15:02 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55e58cd4cd0a <unknown>
+#1 0x55e58c7fd5f0 <unknown>
+#2 0x55e58c84ea33 <unknown>
+#3 0x55e58c84ec21 <unknown>
+#4 0x55e58c89d274 <unknown>
+#5 0x55e58c87468d <unknown>
+#6 0x55e58c89a660 <unknown>
+#7 0x55e58c874433 <unknown>
+#8 0x55e58c840ea3 <unknown>
+#9 0x55e58c841b01 <unknown>
+#10 0x55e58cd11b5b <unknown>
+#11 0x55e58cd15a41 <unknown>
+#12 0x55e58ccf8c52 <unknown>
+#13 0x55e58cd165b4 <unknown>
+#14 0x55e58ccdcf0f <unknown>
+#15 0x55e58cd3adb8 <unknown>
+#16 0x55e58cd3af96 <unknown>
+#17 0x55e58cd4bb56 <unknown>
+#18 0x7fe950904609 start_thread
+
+2025-05-14 12:15:04 - INFO - __main__ - Test completed
+2025-05-14 12:15:26 - ERROR - Pages.LABGATE_page - Error during TRT login: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-14 12:15:26 - ERROR - __main__ - Error during test: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-14 12:15:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99c00eeee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a796b545d837e598c4efaced0a81efec
+2025-05-14 12:15:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99c0102370>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a796b545d837e598c4efaced0a81efec
+2025-05-14 12:15:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99c01021f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a796b545d837e598c4efaced0a81efec
+2025-05-14 12:15:28 - INFO - __main__ - Test completed
+2025-05-14 12:15:44 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x56248f36fd0a <unknown>
+#1 0x56248ee205f0 <unknown>
+#2 0x56248ee0648e <unknown>
+#3 0x56248ee2f109 <unknown>
+#4 0x56248ee9ff49 <unknown>
+#5 0x56248eebcffc <unknown>
+#6 0x56248ee97433 <unknown>
+#7 0x56248ee63ea3 <unknown>
+#8 0x56248ee64b01 <unknown>
+#9 0x56248f334b5b <unknown>
+#10 0x56248f338a41 <unknown>
+#11 0x56248f31bc52 <unknown>
+#12 0x56248f3395b4 <unknown>
+#13 0x56248f2fff0f <unknown>
+#14 0x56248f35ddb8 <unknown>
+#15 0x56248f35df96 <unknown>
+#16 0x56248f36eb56 <unknown>
+#17 0x7f71faa65609 start_thread
+
+2025-05-14 12:15:44 - ERROR - __main__ - Error during test: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x56248f36fd0a <unknown>
+#1 0x56248ee205f0 <unknown>
+#2 0x56248ee0648e <unknown>
+#3 0x56248ee2f109 <unknown>
+#4 0x56248ee9ff49 <unknown>
+#5 0x56248eebcffc <unknown>
+#6 0x56248ee97433 <unknown>
+#7 0x56248ee63ea3 <unknown>
+#8 0x56248ee64b01 <unknown>
+#9 0x56248f334b5b <unknown>
+#10 0x56248f338a41 <unknown>
+#11 0x56248f31bc52 <unknown>
+#12 0x56248f3395b4 <unknown>
+#13 0x56248f2fff0f <unknown>
+#14 0x56248f35ddb8 <unknown>
+#15 0x56248f35df96 <unknown>
+#16 0x56248f36eb56 <unknown>
+#17 0x7f71faa65609 start_thread
+
+2025-05-14 12:15:46 - INFO - __main__ - Test completed
+2025-05-14 12:16:03 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x556d4cfd2d0a <unknown>
+#1 0x556d4ca835f0 <unknown>
+#2 0x556d4cad4a33 <unknown>
+#3 0x556d4cad4c21 <unknown>
+#4 0x556d4cb23274 <unknown>
+#5 0x556d4cafa68d <unknown>
+#6 0x556d4cb20660 <unknown>
+#7 0x556d4cafa433 <unknown>
+#8 0x556d4cac6ea3 <unknown>
+#9 0x556d4cac7b01 <unknown>
+#10 0x556d4cf97b5b <unknown>
+#11 0x556d4cf9ba41 <unknown>
+#12 0x556d4cf7ec52 <unknown>
+#13 0x556d4cf9c5b4 <unknown>
+#14 0x556d4cf62f0f <unknown>
+#15 0x556d4cfc0db8 <unknown>
+#16 0x556d4cfc0f96 <unknown>
+#17 0x556d4cfd1b56 <unknown>
+#18 0x7f1b4a6f8609 start_thread
+
+2025-05-14 12:16:03 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x556d4cfd2d0a <unknown>
+#1 0x556d4ca835f0 <unknown>
+#2 0x556d4cad4a33 <unknown>
+#3 0x556d4cad4c21 <unknown>
+#4 0x556d4cb23274 <unknown>
+#5 0x556d4cafa68d <unknown>
+#6 0x556d4cb20660 <unknown>
+#7 0x556d4cafa433 <unknown>
+#8 0x556d4cac6ea3 <unknown>
+#9 0x556d4cac7b01 <unknown>
+#10 0x556d4cf97b5b <unknown>
+#11 0x556d4cf9ba41 <unknown>
+#12 0x556d4cf7ec52 <unknown>
+#13 0x556d4cf9c5b4 <unknown>
+#14 0x556d4cf62f0f <unknown>
+#15 0x556d4cfc0db8 <unknown>
+#16 0x556d4cfc0f96 <unknown>
+#17 0x556d4cfd1b56 <unknown>
+#18 0x7f1b4a6f8609 start_thread
+
+2025-05-14 12:16:05 - INFO - __main__ - Test completed
+2025-05-14 12:17:42 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:17:44 - INFO - __main__ - Test completed
+2025-05-14 12:20:54 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:20:57 - INFO - __main__ - Test completed
+2025-05-14 12:21:17 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:21:17 - ERROR - Pages.LABGATE_page - Error during TRT logout: type object 'TRT_Page' has no attribute 'SETTINGS_BUTTON'
+2025-05-14 12:21:17 - ERROR - __main__ - Error during test: type object 'TRT_Page' has no attribute 'SETTINGS_BUTTON'
+2025-05-14 12:21:19 - INFO - __main__ - Test completed
+2025-05-14 12:21:47 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:21:57 - ERROR - Pages.LABGATE_page - Error during TRT logout: Message: 
+
+2025-05-14 12:21:57 - ERROR - __main__ - Error during test: Message: 
+
+2025-05-14 12:21:59 - INFO - __main__ - Test completed
+2025-05-14 12:22:07 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:22:18 - ERROR - Pages.LABGATE_page - Error during LABGATE logout: Message: 
+Stacktrace:
+#0 0x55aaf8bf6d0a <unknown>
+#1 0x55aaf86a75f0 <unknown>
+#2 0x55aaf86f8a33 <unknown>
+#3 0x55aaf86f8c21 <unknown>
+#4 0x55aaf8747274 <unknown>
+#5 0x55aaf871e68d <unknown>
+#6 0x55aaf8744660 <unknown>
+#7 0x55aaf871e433 <unknown>
+#8 0x55aaf86eaea3 <unknown>
+#9 0x55aaf86ebb01 <unknown>
+#10 0x55aaf8bbbb5b <unknown>
+#11 0x55aaf8bbfa41 <unknown>
+#12 0x55aaf8ba2c52 <unknown>
+#13 0x55aaf8bc05b4 <unknown>
+#14 0x55aaf8b86f0f <unknown>
+#15 0x55aaf8be4db8 <unknown>
+#16 0x55aaf8be4f96 <unknown>
+#17 0x55aaf8bf5b56 <unknown>
+#18 0x7f14a3ac0609 start_thread
+
+2025-05-14 12:22:18 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55aaf8bf6d0a <unknown>
+#1 0x55aaf86a75f0 <unknown>
+#2 0x55aaf86f8a33 <unknown>
+#3 0x55aaf86f8c21 <unknown>
+#4 0x55aaf8747274 <unknown>
+#5 0x55aaf871e68d <unknown>
+#6 0x55aaf8744660 <unknown>
+#7 0x55aaf871e433 <unknown>
+#8 0x55aaf86eaea3 <unknown>
+#9 0x55aaf86ebb01 <unknown>
+#10 0x55aaf8bbbb5b <unknown>
+#11 0x55aaf8bbfa41 <unknown>
+#12 0x55aaf8ba2c52 <unknown>
+#13 0x55aaf8bc05b4 <unknown>
+#14 0x55aaf8b86f0f <unknown>
+#15 0x55aaf8be4db8 <unknown>
+#16 0x55aaf8be4f96 <unknown>
+#17 0x55aaf8bf5b56 <unknown>
+#18 0x7f14a3ac0609 start_thread
+
+2025-05-14 12:22:20 - INFO - __main__ - Test completed
+2025-05-14 12:22:49 - INFO - Pages.LABGATE_page - TRT Login successful!
+2025-05-14 12:22:50 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 12:22:52 - INFO - __main__ - Test completed
+2025-05-14 12:23:44 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-14 12:23:44 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-14 12:23:49 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-14 12:23:50 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 12:23:52 - INFO - __main__ - Test completed
+2025-05-14 12:37:55 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-14 12:37:56 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-14 12:38:01 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-14 12:38:02 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 12:38:04 - INFO - __main__ - Test completed
+2025-05-14 12:38:10 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-14 12:38:11 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-14 12:38:13 - INFO - __main__ - Test completed
+2025-05-14 12:38:26 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-14 12:38:27 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 12:38:29 - INFO - __main__ - Test completed
+2025-05-14 12:40:32 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x55dab199bd0a <unknown>
+#1 0x55dab144c5f0 <unknown>
+#2 0x55dab149da33 <unknown>
+#3 0x55dab149dc21 <unknown>
+#4 0x55dab14ec274 <unknown>
+#5 0x55dab14c368d <unknown>
+#6 0x55dab14e9660 <unknown>
+#7 0x55dab14c3433 <unknown>
+#8 0x55dab148fea3 <unknown>
+#9 0x55dab1490b01 <unknown>
+#10 0x55dab1960b5b <unknown>
+#11 0x55dab1964a41 <unknown>
+#12 0x55dab1947c52 <unknown>
+#13 0x55dab19655b4 <unknown>
+#14 0x55dab192bf0f <unknown>
+#15 0x55dab1989db8 <unknown>
+#16 0x55dab1989f96 <unknown>
+#17 0x55dab199ab56 <unknown>
+#18 0x7f8dbb333609 start_thread
+
+2025-05-14 12:40:32 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55dab199bd0a <unknown>
+#1 0x55dab144c5f0 <unknown>
+#2 0x55dab149da33 <unknown>
+#3 0x55dab149dc21 <unknown>
+#4 0x55dab14ec274 <unknown>
+#5 0x55dab14c368d <unknown>
+#6 0x55dab14e9660 <unknown>
+#7 0x55dab14c3433 <unknown>
+#8 0x55dab148fea3 <unknown>
+#9 0x55dab1490b01 <unknown>
+#10 0x55dab1960b5b <unknown>
+#11 0x55dab1964a41 <unknown>
+#12 0x55dab1947c52 <unknown>
+#13 0x55dab19655b4 <unknown>
+#14 0x55dab192bf0f <unknown>
+#15 0x55dab1989db8 <unknown>
+#16 0x55dab1989f96 <unknown>
+#17 0x55dab199ab56 <unknown>
+#18 0x7f8dbb333609 start_thread
+
+2025-05-14 12:40:34 - INFO - __main__ - Test completed
+2025-05-14 12:41:52 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x559c48ed0d0a <unknown>
+#1 0x559c489815f0 <unknown>
+#2 0x559c489d2a33 <unknown>
+#3 0x559c489d2c21 <unknown>
+#4 0x559c48a21274 <unknown>
+#5 0x559c489f868d <unknown>
+#6 0x559c48a1e660 <unknown>
+#7 0x559c489f8433 <unknown>
+#8 0x559c489c4ea3 <unknown>
+#9 0x559c489c5b01 <unknown>
+#10 0x559c48e95b5b <unknown>
+#11 0x559c48e99a41 <unknown>
+#12 0x559c48e7cc52 <unknown>
+#13 0x559c48e9a5b4 <unknown>
+#14 0x559c48e60f0f <unknown>
+#15 0x559c48ebedb8 <unknown>
+#16 0x559c48ebef96 <unknown>
+#17 0x559c48ecfb56 <unknown>
+#18 0x7f2bbd6b2609 start_thread
+
+2025-05-14 12:41:52 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x559c48ed0d0a <unknown>
+#1 0x559c489815f0 <unknown>
+#2 0x559c489d2a33 <unknown>
+#3 0x559c489d2c21 <unknown>
+#4 0x559c48a21274 <unknown>
+#5 0x559c489f868d <unknown>
+#6 0x559c48a1e660 <unknown>
+#7 0x559c489f8433 <unknown>
+#8 0x559c489c4ea3 <unknown>
+#9 0x559c489c5b01 <unknown>
+#10 0x559c48e95b5b <unknown>
+#11 0x559c48e99a41 <unknown>
+#12 0x559c48e7cc52 <unknown>
+#13 0x559c48e9a5b4 <unknown>
+#14 0x559c48e60f0f <unknown>
+#15 0x559c48ebedb8 <unknown>
+#16 0x559c48ebef96 <unknown>
+#17 0x559c48ecfb56 <unknown>
+#18 0x7f2bbd6b2609 start_thread
+
+2025-05-14 12:41:54 - INFO - __main__ - Test completed
+2025-05-14 14:08:54 - ERROR - Pages.LABGATE_page - Error loading LABGATE page: Message: 
+Stacktrace:
+#0 0x55f78752ad0a <unknown>
+#1 0x55f786fdb5f0 <unknown>
+#2 0x55f78702ca33 <unknown>
+#3 0x55f78702cc21 <unknown>
+#4 0x55f78707b274 <unknown>
+#5 0x55f78705268d <unknown>
+#6 0x55f787078660 <unknown>
+#7 0x55f787052433 <unknown>
+#8 0x55f78701eea3 <unknown>
+#9 0x55f78701fb01 <unknown>
+#10 0x55f7874efb5b <unknown>
+#11 0x55f7874f3a41 <unknown>
+#12 0x55f7874d6c52 <unknown>
+#13 0x55f7874f45b4 <unknown>
+#14 0x55f7874baf0f <unknown>
+#15 0x55f787518db8 <unknown>
+#16 0x55f787518f96 <unknown>
+#17 0x55f787529b56 <unknown>
+#18 0x7f765e201609 start_thread
+
+2025-05-14 14:08:54 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x55f78752ad0a <unknown>
+#1 0x55f786fdb5f0 <unknown>
+#2 0x55f78702ca33 <unknown>
+#3 0x55f78702cc21 <unknown>
+#4 0x55f78707b274 <unknown>
+#5 0x55f78705268d <unknown>
+#6 0x55f787078660 <unknown>
+#7 0x55f787052433 <unknown>
+#8 0x55f78701eea3 <unknown>
+#9 0x55f78701fb01 <unknown>
+#10 0x55f7874efb5b <unknown>
+#11 0x55f7874f3a41 <unknown>
+#12 0x55f7874d6c52 <unknown>
+#13 0x55f7874f45b4 <unknown>
+#14 0x55f7874baf0f <unknown>
+#15 0x55f787518db8 <unknown>
+#16 0x55f787518f96 <unknown>
+#17 0x55f787529b56 <unknown>
+#18 0x7f765e201609 start_thread
+
+2025-05-14 14:08:56 - INFO - __main__ - Test completed
+2025-05-14 14:10:43 - ERROR - Pages.LABGATE_page - Error loading LABGATE page: Message: 
+Stacktrace:
+#0 0x560bd23d6d0a <unknown>
+#1 0x560bd1e875f0 <unknown>
+#2 0x560bd1ed8a33 <unknown>
+#3 0x560bd1ed8c21 <unknown>
+#4 0x560bd1f27274 <unknown>
+#5 0x560bd1efe68d <unknown>
+#6 0x560bd1f24660 <unknown>
+#7 0x560bd1efe433 <unknown>
+#8 0x560bd1ecaea3 <unknown>
+#9 0x560bd1ecbb01 <unknown>
+#10 0x560bd239bb5b <unknown>
+#11 0x560bd239fa41 <unknown>
+#12 0x560bd2382c52 <unknown>
+#13 0x560bd23a05b4 <unknown>
+#14 0x560bd2366f0f <unknown>
+#15 0x560bd23c4db8 <unknown>
+#16 0x560bd23c4f96 <unknown>
+#17 0x560bd23d5b56 <unknown>
+#18 0x7f47d9359609 start_thread
+
+2025-05-14 14:10:53 - ERROR - Pages.LABGATE_page - Error during TRT login: Message: 
+Stacktrace:
+#0 0x560bd23d6d0a <unknown>
+#1 0x560bd1e875f0 <unknown>
+#2 0x560bd1ed8a33 <unknown>
+#3 0x560bd1ed8c21 <unknown>
+#4 0x560bd1f27274 <unknown>
+#5 0x560bd1efe68d <unknown>
+#6 0x560bd1f24660 <unknown>
+#7 0x560bd1efe433 <unknown>
+#8 0x560bd1ecaea3 <unknown>
+#9 0x560bd1ecbb01 <unknown>
+#10 0x560bd239bb5b <unknown>
+#11 0x560bd239fa41 <unknown>
+#12 0x560bd2382c52 <unknown>
+#13 0x560bd23a05b4 <unknown>
+#14 0x560bd2366f0f <unknown>
+#15 0x560bd23c4db8 <unknown>
+#16 0x560bd23c4f96 <unknown>
+#17 0x560bd23d5b56 <unknown>
+#18 0x7f47d9359609 start_thread
+
+2025-05-14 14:10:53 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x560bd23d6d0a <unknown>
+#1 0x560bd1e875f0 <unknown>
+#2 0x560bd1ed8a33 <unknown>
+#3 0x560bd1ed8c21 <unknown>
+#4 0x560bd1f27274 <unknown>
+#5 0x560bd1efe68d <unknown>
+#6 0x560bd1f24660 <unknown>
+#7 0x560bd1efe433 <unknown>
+#8 0x560bd1ecaea3 <unknown>
+#9 0x560bd1ecbb01 <unknown>
+#10 0x560bd239bb5b <unknown>
+#11 0x560bd239fa41 <unknown>
+#12 0x560bd2382c52 <unknown>
+#13 0x560bd23a05b4 <unknown>
+#14 0x560bd2366f0f <unknown>
+#15 0x560bd23c4db8 <unknown>
+#16 0x560bd23c4f96 <unknown>
+#17 0x560bd23d5b56 <unknown>
+#18 0x7f47d9359609 start_thread
+
+2025-05-14 14:10:55 - INFO - __main__ - Test completed
+2025-05-14 14:13:34 - ERROR - Pages.LABGATE_page - Error loading LABGATE page: Message: 
+Stacktrace:
+#0 0x562103092d0a <unknown>
+#1 0x562102b435f0 <unknown>
+#2 0x562102b94a33 <unknown>
+#3 0x562102b94c21 <unknown>
+#4 0x562102be3274 <unknown>
+#5 0x562102bba68d <unknown>
+#6 0x562102be0660 <unknown>
+#7 0x562102bba433 <unknown>
+#8 0x562102b86ea3 <unknown>
+#9 0x562102b87b01 <unknown>
+#10 0x562103057b5b <unknown>
+#11 0x56210305ba41 <unknown>
+#12 0x56210303ec52 <unknown>
+#13 0x56210305c5b4 <unknown>
+#14 0x562103022f0f <unknown>
+#15 0x562103080db8 <unknown>
+#16 0x562103080f96 <unknown>
+#17 0x562103091b56 <unknown>
+#18 0x7fc6a27b0609 start_thread
+
+2025-05-14 14:13:34 - INFO - Pages.LABGATE_page - Test completed
+2025-05-14 14:13:34 - ERROR - __main__ - Error during test: Message: 
+Stacktrace:
+#0 0x562103092d0a <unknown>
+#1 0x562102b435f0 <unknown>
+#2 0x562102b94a33 <unknown>
+#3 0x562102b94c21 <unknown>
+#4 0x562102be3274 <unknown>
+#5 0x562102bba68d <unknown>
+#6 0x562102be0660 <unknown>
+#7 0x562102bba433 <unknown>
+#8 0x562102b86ea3 <unknown>
+#9 0x562102b87b01 <unknown>
+#10 0x562103057b5b <unknown>
+#11 0x56210305ba41 <unknown>
+#12 0x56210303ec52 <unknown>
+#13 0x56210305c5b4 <unknown>
+#14 0x562103022f0f <unknown>
+#15 0x562103080db8 <unknown>
+#16 0x562103080f96 <unknown>
+#17 0x562103091b56 <unknown>
+#18 0x7fc6a27b0609 start_thread
+
+2025-05-14 14:14:20 - ERROR - Pages.LABGATE_page - Error loading LABGATE page: Message: 
+Stacktrace:
+#0 0x55c8ecff5d0a <unknown>
+#1 0x55c8ecaa65f0 <unknown>
+#2 0x55c8ecaf7a33 <unknown>
+#3 0x55c8ecaf7c21 <unknown>
+#4 0x55c8ecb46274 <unknown>
+#5 0x55c8ecb1d68d <unknown>
+#6 0x55c8ecb43660 <unknown>
+#7 0x55c8ecb1d433 <unknown>
+#8 0x55c8ecae9ea3 <unknown>
+#9 0x55c8ecaeab01 <unknown>
+#10 0x55c8ecfbab5b <unknown>
+#11 0x55c8ecfbea41 <unknown>
+#12 0x55c8ecfa1c52 <unknown>
+#13 0x55c8ecfbf5b4 <unknown>
+#14 0x55c8ecf85f0f <unknown>
+#15 0x55c8ecfe3db8 <unknown>
+#16 0x55c8ecfe3f96 <unknown>
+#17 0x55c8ecff4b56 <unknown>
+#18 0x7fe5e265e609 start_thread
+
+2025-05-14 14:14:20 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1f75288040>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8a769dea145fd796b9e598d20f30e77f/element
+2025-05-14 14:14:20 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1f752883d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8a769dea145fd796b9e598d20f30e77f/element
+2025-05-14 14:14:20 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1f752886a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/8a769dea145fd796b9e598d20f30e77f/element
+2025-05-14 14:14:20 - ERROR - Pages.LABGATE_page - Error during LABGATE login: HTTPConnectionPool(host='localhost', port=48189): Max retries exceeded with url: /session/8a769dea145fd796b9e598d20f30e77f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1f75288700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-14 14:14:20 - ERROR - __main__ - Error during test: HTTPConnectionPool(host='localhost', port=48189): Max retries exceeded with url: /session/8a769dea145fd796b9e598d20f30e77f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1f75288700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-14 14:19:37 - ERROR - Pages.LABGATE_page - Failed to open LABGATE page: Message: 
+Stacktrace:
+#0 0x55bf9ea43d0a <unknown>
+#1 0x55bf9e4f45f0 <unknown>
+#2 0x55bf9e545a33 <unknown>
+#3 0x55bf9e545c21 <unknown>
+#4 0x55bf9e594274 <unknown>
+#5 0x55bf9e56b68d <unknown>
+#6 0x55bf9e591660 <unknown>
+#7 0x55bf9e56b433 <unknown>
+#8 0x55bf9e537ea3 <unknown>
+#9 0x55bf9e538b01 <unknown>
+#10 0x55bf9ea08b5b <unknown>
+#11 0x55bf9ea0ca41 <unknown>
+#12 0x55bf9e9efc52 <unknown>
+#13 0x55bf9ea0d5b4 <unknown>
+#14 0x55bf9e9d3f0f <unknown>
+#15 0x55bf9ea31db8 <unknown>
+#16 0x55bf9ea31f96 <unknown>
+#17 0x55bf9ea42b56 <unknown>
+#18 0x7f30f8e1c609 start_thread
+
+2025-05-14 14:19:39 - INFO - __main__ - Test completed
+2025-05-14 14:21:40 - ERROR - Pages.LABGATE_page - Failed to open LABGATE page: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55c8636e4d0a <unknown>
+#1 0x55c8631955f0 <unknown>
+#2 0x55c86317b48e <unknown>
+#3 0x55c8631a4109 <unknown>
+#4 0x55c863214f49 <unknown>
+#5 0x55c863231ffc <unknown>
+#6 0x55c86320c433 <unknown>
+#7 0x55c8631d8ea3 <unknown>
+#8 0x55c8631d9b01 <unknown>
+#9 0x55c8636a9b5b <unknown>
+#10 0x55c8636ada41 <unknown>
+#11 0x55c863690c52 <unknown>
+#12 0x55c8636ae5b4 <unknown>
+#13 0x55c863674f0f <unknown>
+#14 0x55c8636d2db8 <unknown>
+#15 0x55c8636d2f96 <unknown>
+#16 0x55c8636e3b56 <unknown>
+#17 0x7f12765a3609 start_thread
+
+2025-05-14 14:21:42 - INFO - __main__ - Test completed
+2025-05-14 14:21:45 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-05-14 14:21:49 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-14 14:21:50 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 14:21:52 - INFO - __main__ - Test completed
+2025-05-14 14:34:33 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-05-14 14:34:37 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-14 14:34:38 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-14 14:34:40 - INFO - __main__ - Test completed
+2025-05-14 14:34:59 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-05-14 14:35:09 - ERROR - Pages.LABGATE_page - Failed to login to LABGATE: Message: 
+Stacktrace:
+#0 0x55f36c1e6d0a <unknown>
+#1 0x55f36bc975f0 <unknown>
+#2 0x55f36bce8a33 <unknown>
+#3 0x55f36bce8c21 <unknown>
+#4 0x55f36bd37274 <unknown>
+#5 0x55f36bd0e68d <unknown>
+#6 0x55f36bd34660 <unknown>
+#7 0x55f36bd0e433 <unknown>
+#8 0x55f36bcdaea3 <unknown>
+#9 0x55f36bcdbb01 <unknown>
+#10 0x55f36c1abb5b <unknown>
+#11 0x55f36c1afa41 <unknown>
+#12 0x55f36c192c52 <unknown>
+#13 0x55f36c1b05b4 <unknown>
+#14 0x55f36c176f0f <unknown>
+#15 0x55f36c1d4db8 <unknown>
+#16 0x55f36c1d4f96 <unknown>
+#17 0x55f36c1e5b56 <unknown>
+#18 0x7f2a68b20609 start_thread
+
+2025-05-14 14:35:11 - INFO - __main__ - Test completed
+2025-05-14 14:38:27 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-14 14:38:28 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-14 14:38:29 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-14 14:38:31 - INFO - __main__ - Test completed
+2025-05-14 14:38:42 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-14 14:38:43 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-14 14:38:44 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-14 14:38:46 - INFO - __main__ - Test completed
+2025-05-14 14:39:09 - ERROR - Pages.TRT_page - Failed to open TRT page: Message: 
+Stacktrace:
+#0 0x555c8065ed0a <unknown>
+#1 0x555c8010f5f0 <unknown>
+#2 0x555c80160a33 <unknown>
+#3 0x555c80160c21 <unknown>
+#4 0x555c801af274 <unknown>
+#5 0x555c8018668d <unknown>
+#6 0x555c801ac660 <unknown>
+#7 0x555c80186433 <unknown>
+#8 0x555c80152ea3 <unknown>
+#9 0x555c80153b01 <unknown>
+#10 0x555c80623b5b <unknown>
+#11 0x555c80627a41 <unknown>
+#12 0x555c8060ac52 <unknown>
+#13 0x555c806285b4 <unknown>
+#14 0x555c805eef0f <unknown>
+#15 0x555c8064cdb8 <unknown>
+#16 0x555c8064cf96 <unknown>
+#17 0x555c8065db56 <unknown>
+#18 0x7fc753453609 start_thread
+
+2025-05-14 14:39:09 - ERROR - __main__ - Unexpected error: Failed to open TRT page: Message: 
+Stacktrace:
+#0 0x555c8065ed0a <unknown>
+#1 0x555c8010f5f0 <unknown>
+#2 0x555c80160a33 <unknown>
+#3 0x555c80160c21 <unknown>
+#4 0x555c801af274 <unknown>
+#5 0x555c8018668d <unknown>
+#6 0x555c801ac660 <unknown>
+#7 0x555c80186433 <unknown>
+#8 0x555c80152ea3 <unknown>
+#9 0x555c80153b01 <unknown>
+#10 0x555c80623b5b <unknown>
+#11 0x555c80627a41 <unknown>
+#12 0x555c8060ac52 <unknown>
+#13 0x555c806285b4 <unknown>
+#14 0x555c805eef0f <unknown>
+#15 0x555c8064cdb8 <unknown>
+#16 0x555c8064cf96 <unknown>
+#17 0x555c8065db56 <unknown>
+#18 0x7fc753453609 start_thread
+
+2025-05-14 14:39:11 - INFO - __main__ - Test completed
+2025-05-14 14:39:25 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-14 14:39:35 - ERROR - Pages.TRT_page - Failed to login to TRT: Message: 
+Stacktrace:
+#0 0x56177a548d0a <unknown>
+#1 0x561779ff95f0 <unknown>
+#2 0x56177a04aa33 <unknown>
+#3 0x56177a04ac21 <unknown>
+#4 0x56177a099274 <unknown>
+#5 0x56177a07068d <unknown>
+#6 0x56177a096660 <unknown>
+#7 0x56177a070433 <unknown>
+#8 0x56177a03cea3 <unknown>
+#9 0x56177a03db01 <unknown>
+#10 0x56177a50db5b <unknown>
+#11 0x56177a511a41 <unknown>
+#12 0x56177a4f4c52 <unknown>
+#13 0x56177a5125b4 <unknown>
+#14 0x56177a4d8f0f <unknown>
+#15 0x56177a536db8 <unknown>
+#16 0x56177a536f96 <unknown>
+#17 0x56177a547b56 <unknown>
+#18 0x7f2682c9c609 start_thread
+
+2025-05-14 14:39:35 - ERROR - __main__ - Unexpected error: Failed to login to TRT: Message: 
+Stacktrace:
+#0 0x56177a548d0a <unknown>
+#1 0x561779ff95f0 <unknown>
+#2 0x56177a04aa33 <unknown>
+#3 0x56177a04ac21 <unknown>
+#4 0x56177a099274 <unknown>
+#5 0x56177a07068d <unknown>
+#6 0x56177a096660 <unknown>
+#7 0x56177a070433 <unknown>
+#8 0x56177a03cea3 <unknown>
+#9 0x56177a03db01 <unknown>
+#10 0x56177a50db5b <unknown>
+#11 0x56177a511a41 <unknown>
+#12 0x56177a4f4c52 <unknown>
+#13 0x56177a5125b4 <unknown>
+#14 0x56177a4d8f0f <unknown>
+#15 0x56177a536db8 <unknown>
+#16 0x56177a536f96 <unknown>
+#17 0x56177a547b56 <unknown>
+#18 0x7f2682c9c609 start_thread
+
+2025-05-14 14:39:38 - INFO - __main__ - Test completed

@@ -1,3 +1,4 @@
+import logging
 import time
 
 from selenium.common import NoAlertPresentException
@@ -15,6 +16,8 @@ class BasePage:
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 10)
+        self.logger = logging.getLogger(__name__)
+
 
     def find_element(self, by, value):
         return self.wait.until(EC.presence_of_element_located((by, value)))
@@ -128,11 +131,38 @@ class BasePage:
 
 #  create a function that accept a confirmation alert
     def accept_confirmation_alert(self):
+        # Wait for the dialog to appear
+        time.sleep(1)
+
+        # Press Tab to focus on "Open xdg-open" button, then Enter to click it
+        # For Chrome on Windows/Linux, typically Tab once then Enter works
+        keyboard = Controller()
+
         try:
-            alert = Alert(self.driver)
-            alert.accept()
-        except NoAlertPresentException:
-            print("No alert present to accept.")
-    # def accept_alert(self):
-    #     alert = self.wait.until(EC.alert_is_present())
-    #     alert.accept()
+            # First Tab to focus the checkbox (Tab sequence depends on browser)
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
+            time.sleep(0.5)
+
+            # Press Space to check the checkbox
+            keyboard.press(Key.space)
+            keyboard.release(Key.space)
+            time.sleep(0.5)
+
+            # Tab again to move to the "Open xdg-open" button
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
+            time.sleep(0.5)
+            #
+            # Press Enter to click the button
+            keyboard.press(Key.enter)
+            keyboard.release(Key.enter)
+
+            # Wait for dialog processing
+            time.sleep(1)
+
+        except Exception as e:
+            self.logger.error(f"Error handling protocol dialog: {e}")
+            raise
+
+
