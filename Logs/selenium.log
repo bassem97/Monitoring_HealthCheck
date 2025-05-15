@@ -7369,3 +7369,921 @@ Stacktrace:
 #18 0x7f2682c9c609 start_thread
 
 2025-05-14 14:39:38 - INFO - __main__ - Test completed
+2025-05-15 11:17:10 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55be852edd0a <unknown>
+#1 0x55be84d9e5f0 <unknown>
+#2 0x55be84d8448e <unknown>
+#3 0x55be84dad109 <unknown>
+#4 0x55be84e1df49 <unknown>
+#5 0x55be84e3affc <unknown>
+#6 0x55be84e15433 <unknown>
+#7 0x55be84de1ea3 <unknown>
+#8 0x55be84de2b01 <unknown>
+#9 0x55be852b2b5b <unknown>
+#10 0x55be852b6a41 <unknown>
+#11 0x55be85299c52 <unknown>
+#12 0x55be852b75b4 <unknown>
+#13 0x55be8527df0f <unknown>
+#14 0x55be852dbdb8 <unknown>
+#15 0x55be852dbf96 <unknown>
+#16 0x55be852ecb56 <unknown>
+#17 0x7fcd6f9c2609 start_thread
+
+2025-05-15 11:17:10 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55be852edd0a <unknown>
+#1 0x55be84d9e5f0 <unknown>
+#2 0x55be84d8448e <unknown>
+#3 0x55be84dad109 <unknown>
+#4 0x55be84e1df49 <unknown>
+#5 0x55be84e3affc <unknown>
+#6 0x55be84e15433 <unknown>
+#7 0x55be84de1ea3 <unknown>
+#8 0x55be84de2b01 <unknown>
+#9 0x55be852b2b5b <unknown>
+#10 0x55be852b6a41 <unknown>
+#11 0x55be85299c52 <unknown>
+#12 0x55be852b75b4 <unknown>
+#13 0x55be8527df0f <unknown>
+#14 0x55be852dbdb8 <unknown>
+#15 0x55be852dbf96 <unknown>
+#16 0x55be852ecb56 <unknown>
+#17 0x7fcd6f9c2609 start_thread
+
+2025-05-15 11:17:12 - INFO - __main__ - Test completed
+2025-05-15 11:23:03 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:23:03 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: no such alert
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55f26bbe5d0a <unknown>
+#1 0x55f26b696443 <unknown>
+#2 0x55f26b6bcf87 <unknown>
+#3 0x55f26b70d6eb <unknown>
+#4 0x55f26b6bcab8 <unknown>
+#5 0x55f26b70d433 <unknown>
+#6 0x55f26b6d9ea3 <unknown>
+#7 0x55f26b6dab01 <unknown>
+#8 0x55f26bbaab5b <unknown>
+#9 0x55f26bbaea41 <unknown>
+#10 0x55f26bb91c52 <unknown>
+#11 0x55f26bbaf5b4 <unknown>
+#12 0x55f26bb75f0f <unknown>
+#13 0x55f26bbd3db8 <unknown>
+#14 0x55f26bbd3f96 <unknown>
+#15 0x55f26bbe4b56 <unknown>
+#16 0x7f786c67a609 start_thread
+
+2025-05-15 11:23:03 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: no such alert
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55f26bbe5d0a <unknown>
+#1 0x55f26b696443 <unknown>
+#2 0x55f26b6bcf87 <unknown>
+#3 0x55f26b70d6eb <unknown>
+#4 0x55f26b6bcab8 <unknown>
+#5 0x55f26b70d433 <unknown>
+#6 0x55f26b6d9ea3 <unknown>
+#7 0x55f26b6dab01 <unknown>
+#8 0x55f26bbaab5b <unknown>
+#9 0x55f26bbaea41 <unknown>
+#10 0x55f26bb91c52 <unknown>
+#11 0x55f26bbaf5b4 <unknown>
+#12 0x55f26bb75f0f <unknown>
+#13 0x55f26bbd3db8 <unknown>
+#14 0x55f26bbd3f96 <unknown>
+#15 0x55f26bbe4b56 <unknown>
+#16 0x7f786c67a609 start_thread
+
+2025-05-15 11:23:05 - INFO - __main__ - Test completed
+2025-05-15 11:25:31 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:25:43 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x564ed1926d0a <unknown>
+#1 0x564ed13d75f0 <unknown>
+#2 0x564ed1428a33 <unknown>
+#3 0x564ed1428c21 <unknown>
+#4 0x564ed1477274 <unknown>
+#5 0x564ed144e68d <unknown>
+#6 0x564ed1474660 <unknown>
+#7 0x564ed144e433 <unknown>
+#8 0x564ed141aea3 <unknown>
+#9 0x564ed141bb01 <unknown>
+#10 0x564ed18ebb5b <unknown>
+#11 0x564ed18efa41 <unknown>
+#12 0x564ed18d2c52 <unknown>
+#13 0x564ed18f05b4 <unknown>
+#14 0x564ed18b6f0f <unknown>
+#15 0x564ed1914db8 <unknown>
+#16 0x564ed1914f96 <unknown>
+#17 0x564ed1925b56 <unknown>
+#18 0x7f4a35ea5609 start_thread
+
+2025-05-15 11:25:43 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x564ed1926d0a <unknown>
+#1 0x564ed13d75f0 <unknown>
+#2 0x564ed1428a33 <unknown>
+#3 0x564ed1428c21 <unknown>
+#4 0x564ed1477274 <unknown>
+#5 0x564ed144e68d <unknown>
+#6 0x564ed1474660 <unknown>
+#7 0x564ed144e433 <unknown>
+#8 0x564ed141aea3 <unknown>
+#9 0x564ed141bb01 <unknown>
+#10 0x564ed18ebb5b <unknown>
+#11 0x564ed18efa41 <unknown>
+#12 0x564ed18d2c52 <unknown>
+#13 0x564ed18f05b4 <unknown>
+#14 0x564ed18b6f0f <unknown>
+#15 0x564ed1914db8 <unknown>
+#16 0x564ed1914f96 <unknown>
+#17 0x564ed1925b56 <unknown>
+#18 0x7f4a35ea5609 start_thread
+
+2025-05-15 11:25:45 - INFO - __main__ - Test completed
+2025-05-15 11:29:56 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:30:00 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x555ca1826d0a <unknown>
+#1 0x555ca12d75f0 <unknown>
+#2 0x555ca12bd48e <unknown>
+#3 0x555ca12e6109 <unknown>
+#4 0x555ca1356f49 <unknown>
+#5 0x555ca1373ffc <unknown>
+#6 0x555ca134e433 <unknown>
+#7 0x555ca131aea3 <unknown>
+#8 0x555ca131bb01 <unknown>
+#9 0x555ca17ebb5b <unknown>
+#10 0x555ca17efa41 <unknown>
+#11 0x555ca17d2c52 <unknown>
+#12 0x555ca17f05b4 <unknown>
+#13 0x555ca17b6f0f <unknown>
+#14 0x555ca1814db8 <unknown>
+#15 0x555ca1814f96 <unknown>
+#16 0x555ca1825b56 <unknown>
+#17 0x7f03c147b609 start_thread
+
+2025-05-15 11:30:00 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x555ca1826d0a <unknown>
+#1 0x555ca12d75f0 <unknown>
+#2 0x555ca12bd48e <unknown>
+#3 0x555ca12e6109 <unknown>
+#4 0x555ca1356f49 <unknown>
+#5 0x555ca1373ffc <unknown>
+#6 0x555ca134e433 <unknown>
+#7 0x555ca131aea3 <unknown>
+#8 0x555ca131bb01 <unknown>
+#9 0x555ca17ebb5b <unknown>
+#10 0x555ca17efa41 <unknown>
+#11 0x555ca17d2c52 <unknown>
+#12 0x555ca17f05b4 <unknown>
+#13 0x555ca17b6f0f <unknown>
+#14 0x555ca1814db8 <unknown>
+#15 0x555ca1814f96 <unknown>
+#16 0x555ca1825b56 <unknown>
+#17 0x7f03c147b609 start_thread
+
+2025-05-15 11:30:02 - INFO - __main__ - Test completed
+2025-05-15 11:31:04 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:31:16 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x556824607d0a <unknown>
+#1 0x5568240b85f0 <unknown>
+#2 0x556824109a33 <unknown>
+#3 0x556824109c21 <unknown>
+#4 0x556824158274 <unknown>
+#5 0x55682412f68d <unknown>
+#6 0x556824155660 <unknown>
+#7 0x55682412f433 <unknown>
+#8 0x5568240fbea3 <unknown>
+#9 0x5568240fcb01 <unknown>
+#10 0x5568245ccb5b <unknown>
+#11 0x5568245d0a41 <unknown>
+#12 0x5568245b3c52 <unknown>
+#13 0x5568245d15b4 <unknown>
+#14 0x556824597f0f <unknown>
+#15 0x5568245f5db8 <unknown>
+#16 0x5568245f5f96 <unknown>
+#17 0x556824606b56 <unknown>
+#18 0x7f4f4ad7e609 start_thread
+
+2025-05-15 11:31:16 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x556824607d0a <unknown>
+#1 0x5568240b85f0 <unknown>
+#2 0x556824109a33 <unknown>
+#3 0x556824109c21 <unknown>
+#4 0x556824158274 <unknown>
+#5 0x55682412f68d <unknown>
+#6 0x556824155660 <unknown>
+#7 0x55682412f433 <unknown>
+#8 0x5568240fbea3 <unknown>
+#9 0x5568240fcb01 <unknown>
+#10 0x5568245ccb5b <unknown>
+#11 0x5568245d0a41 <unknown>
+#12 0x5568245b3c52 <unknown>
+#13 0x5568245d15b4 <unknown>
+#14 0x556824597f0f <unknown>
+#15 0x5568245f5db8 <unknown>
+#16 0x5568245f5f96 <unknown>
+#17 0x556824606b56 <unknown>
+#18 0x7f4f4ad7e609 start_thread
+
+2025-05-15 11:31:18 - INFO - __main__ - Test completed
+2025-05-15 11:31:56 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:31:57 - ERROR - Pages.TMS_page - Error handling protocol dialog: name 'k' is not defined
+2025-05-15 11:31:57 - ERROR - Pages.TMS_page - Failed to open TMS page: name 'k' is not defined
+2025-05-15 11:31:57 - ERROR - __main__ - Unexpected error: Failed to open TMS page: name 'k' is not defined
+2025-05-15 11:31:59 - INFO - __main__ - Test completed
+2025-05-15 11:32:07 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:32:19 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x557f068d8d0a <unknown>
+#1 0x557f063895f0 <unknown>
+#2 0x557f063daa33 <unknown>
+#3 0x557f063dac21 <unknown>
+#4 0x557f06429274 <unknown>
+#5 0x557f0640068d <unknown>
+#6 0x557f06426660 <unknown>
+#7 0x557f06400433 <unknown>
+#8 0x557f063ccea3 <unknown>
+#9 0x557f063cdb01 <unknown>
+#10 0x557f0689db5b <unknown>
+#11 0x557f068a1a41 <unknown>
+#12 0x557f06884c52 <unknown>
+#13 0x557f068a25b4 <unknown>
+#14 0x557f06868f0f <unknown>
+#15 0x557f068c6db8 <unknown>
+#16 0x557f068c6f96 <unknown>
+#17 0x557f068d7b56 <unknown>
+#18 0x7f4c131c8609 start_thread
+
+2025-05-15 11:32:19 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x557f068d8d0a <unknown>
+#1 0x557f063895f0 <unknown>
+#2 0x557f063daa33 <unknown>
+#3 0x557f063dac21 <unknown>
+#4 0x557f06429274 <unknown>
+#5 0x557f0640068d <unknown>
+#6 0x557f06426660 <unknown>
+#7 0x557f06400433 <unknown>
+#8 0x557f063ccea3 <unknown>
+#9 0x557f063cdb01 <unknown>
+#10 0x557f0689db5b <unknown>
+#11 0x557f068a1a41 <unknown>
+#12 0x557f06884c52 <unknown>
+#13 0x557f068a25b4 <unknown>
+#14 0x557f06868f0f <unknown>
+#15 0x557f068c6db8 <unknown>
+#16 0x557f068c6f96 <unknown>
+#17 0x557f068d7b56 <unknown>
+#18 0x7f4c131c8609 start_thread
+
+2025-05-15 11:32:21 - INFO - __main__ - Test completed
+2025-05-15 11:32:27 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:32:39 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55ff60d8fd0a <unknown>
+#1 0x55ff608405f0 <unknown>
+#2 0x55ff60891a33 <unknown>
+#3 0x55ff60891c21 <unknown>
+#4 0x55ff608e0274 <unknown>
+#5 0x55ff608b768d <unknown>
+#6 0x55ff608dd660 <unknown>
+#7 0x55ff608b7433 <unknown>
+#8 0x55ff60883ea3 <unknown>
+#9 0x55ff60884b01 <unknown>
+#10 0x55ff60d54b5b <unknown>
+#11 0x55ff60d58a41 <unknown>
+#12 0x55ff60d3bc52 <unknown>
+#13 0x55ff60d595b4 <unknown>
+#14 0x55ff60d1ff0f <unknown>
+#15 0x55ff60d7ddb8 <unknown>
+#16 0x55ff60d7df96 <unknown>
+#17 0x55ff60d8eb56 <unknown>
+#18 0x7f5246da3609 start_thread
+
+2025-05-15 11:32:39 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55ff60d8fd0a <unknown>
+#1 0x55ff608405f0 <unknown>
+#2 0x55ff60891a33 <unknown>
+#3 0x55ff60891c21 <unknown>
+#4 0x55ff608e0274 <unknown>
+#5 0x55ff608b768d <unknown>
+#6 0x55ff608dd660 <unknown>
+#7 0x55ff608b7433 <unknown>
+#8 0x55ff60883ea3 <unknown>
+#9 0x55ff60884b01 <unknown>
+#10 0x55ff60d54b5b <unknown>
+#11 0x55ff60d58a41 <unknown>
+#12 0x55ff60d3bc52 <unknown>
+#13 0x55ff60d595b4 <unknown>
+#14 0x55ff60d1ff0f <unknown>
+#15 0x55ff60d7ddb8 <unknown>
+#16 0x55ff60d7df96 <unknown>
+#17 0x55ff60d8eb56 <unknown>
+#18 0x7f5246da3609 start_thread
+
+2025-05-15 11:32:41 - INFO - __main__ - Test completed
+2025-05-15 11:32:50 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:33:01 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9392b9f970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5fd8c0f8ade36668dfe4ccf87b6655d8
+2025-05-15 11:33:01 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9392b9fe80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5fd8c0f8ade36668dfe4ccf87b6655d8
+2025-05-15 11:33:01 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9392afc3d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5fd8c0f8ade36668dfe4ccf87b6655d8
+2025-05-15 11:33:01 - INFO - __main__ - Test completed
+2025-05-15 11:33:02 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:33:15 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f7c240970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/bd4c8a0bc2db6a05495e8621d114aab3
+2025-05-15 11:33:15 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f7c240f70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/bd4c8a0bc2db6a05495e8621d114aab3
+2025-05-15 11:33:15 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f7c19c310>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/bd4c8a0bc2db6a05495e8621d114aab3
+2025-05-15 11:33:15 - INFO - __main__ - Test completed
+2025-05-15 11:33:17 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:33:29 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e1910cbd0a <unknown>
+#1 0x55e190b7c5f0 <unknown>
+#2 0x55e190bcda33 <unknown>
+#3 0x55e190bcdc21 <unknown>
+#4 0x55e190c1c274 <unknown>
+#5 0x55e190bf368d <unknown>
+#6 0x55e190c19660 <unknown>
+#7 0x55e190bf3433 <unknown>
+#8 0x55e190bbfea3 <unknown>
+#9 0x55e190bc0b01 <unknown>
+#10 0x55e191090b5b <unknown>
+#11 0x55e191094a41 <unknown>
+#12 0x55e191077c52 <unknown>
+#13 0x55e1910955b4 <unknown>
+#14 0x55e19105bf0f <unknown>
+#15 0x55e1910b9db8 <unknown>
+#16 0x55e1910b9f96 <unknown>
+#17 0x55e1910cab56 <unknown>
+#18 0x7fca02ff2609 start_thread
+
+2025-05-15 11:33:29 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e1910cbd0a <unknown>
+#1 0x55e190b7c5f0 <unknown>
+#2 0x55e190bcda33 <unknown>
+#3 0x55e190bcdc21 <unknown>
+#4 0x55e190c1c274 <unknown>
+#5 0x55e190bf368d <unknown>
+#6 0x55e190c19660 <unknown>
+#7 0x55e190bf3433 <unknown>
+#8 0x55e190bbfea3 <unknown>
+#9 0x55e190bc0b01 <unknown>
+#10 0x55e191090b5b <unknown>
+#11 0x55e191094a41 <unknown>
+#12 0x55e191077c52 <unknown>
+#13 0x55e1910955b4 <unknown>
+#14 0x55e19105bf0f <unknown>
+#15 0x55e1910b9db8 <unknown>
+#16 0x55e1910b9f96 <unknown>
+#17 0x55e1910cab56 <unknown>
+#18 0x7fca02ff2609 start_thread
+
+2025-05-15 11:33:32 - INFO - __main__ - Test completed
+2025-05-15 11:33:45 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:33:57 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x559ceb006d0a <unknown>
+#1 0x559ceaab75f0 <unknown>
+#2 0x559ceab08a33 <unknown>
+#3 0x559ceab08c21 <unknown>
+#4 0x559ceab57274 <unknown>
+#5 0x559ceab2e68d <unknown>
+#6 0x559ceab54660 <unknown>
+#7 0x559ceab2e433 <unknown>
+#8 0x559ceaafaea3 <unknown>
+#9 0x559ceaafbb01 <unknown>
+#10 0x559ceafcbb5b <unknown>
+#11 0x559ceafcfa41 <unknown>
+#12 0x559ceafb2c52 <unknown>
+#13 0x559ceafd05b4 <unknown>
+#14 0x559ceaf96f0f <unknown>
+#15 0x559ceaff4db8 <unknown>
+#16 0x559ceaff4f96 <unknown>
+#17 0x559ceb005b56 <unknown>
+#18 0x7fbe738af609 start_thread
+
+2025-05-15 11:33:57 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x559ceb006d0a <unknown>
+#1 0x559ceaab75f0 <unknown>
+#2 0x559ceab08a33 <unknown>
+#3 0x559ceab08c21 <unknown>
+#4 0x559ceab57274 <unknown>
+#5 0x559ceab2e68d <unknown>
+#6 0x559ceab54660 <unknown>
+#7 0x559ceab2e433 <unknown>
+#8 0x559ceaafaea3 <unknown>
+#9 0x559ceaafbb01 <unknown>
+#10 0x559ceafcbb5b <unknown>
+#11 0x559ceafcfa41 <unknown>
+#12 0x559ceafb2c52 <unknown>
+#13 0x559ceafd05b4 <unknown>
+#14 0x559ceaf96f0f <unknown>
+#15 0x559ceaff4db8 <unknown>
+#16 0x559ceaff4f96 <unknown>
+#17 0x559ceb005b56 <unknown>
+#18 0x7fbe738af609 start_thread
+
+2025-05-15 11:33:59 - INFO - __main__ - Test completed
+2025-05-15 11:34:04 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:34:16 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e1d79b9d0a <unknown>
+#1 0x55e1d746a5f0 <unknown>
+#2 0x55e1d74bba33 <unknown>
+#3 0x55e1d74bbc21 <unknown>
+#4 0x55e1d750a274 <unknown>
+#5 0x55e1d74e168d <unknown>
+#6 0x55e1d7507660 <unknown>
+#7 0x55e1d74e1433 <unknown>
+#8 0x55e1d74adea3 <unknown>
+#9 0x55e1d74aeb01 <unknown>
+#10 0x55e1d797eb5b <unknown>
+#11 0x55e1d7982a41 <unknown>
+#12 0x55e1d7965c52 <unknown>
+#13 0x55e1d79835b4 <unknown>
+#14 0x55e1d7949f0f <unknown>
+#15 0x55e1d79a7db8 <unknown>
+#16 0x55e1d79a7f96 <unknown>
+#17 0x55e1d79b8b56 <unknown>
+#18 0x7f0ee1fc3609 start_thread
+
+2025-05-15 11:34:16 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e1d79b9d0a <unknown>
+#1 0x55e1d746a5f0 <unknown>
+#2 0x55e1d74bba33 <unknown>
+#3 0x55e1d74bbc21 <unknown>
+#4 0x55e1d750a274 <unknown>
+#5 0x55e1d74e168d <unknown>
+#6 0x55e1d7507660 <unknown>
+#7 0x55e1d74e1433 <unknown>
+#8 0x55e1d74adea3 <unknown>
+#9 0x55e1d74aeb01 <unknown>
+#10 0x55e1d797eb5b <unknown>
+#11 0x55e1d7982a41 <unknown>
+#12 0x55e1d7965c52 <unknown>
+#13 0x55e1d79835b4 <unknown>
+#14 0x55e1d7949f0f <unknown>
+#15 0x55e1d79a7db8 <unknown>
+#16 0x55e1d79a7f96 <unknown>
+#17 0x55e1d79b8b56 <unknown>
+#18 0x7f0ee1fc3609 start_thread
+
+2025-05-15 11:34:18 - INFO - __main__ - Test completed
+2025-05-15 11:34:23 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:34:33 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f314b2b5970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ec7949191179b748a10450fafd7ce19c
+2025-05-15 11:34:33 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f314b2b5ca0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ec7949191179b748a10450fafd7ce19c
+2025-05-15 11:34:33 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f314b212310>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ec7949191179b748a10450fafd7ce19c
+2025-05-15 11:34:33 - INFO - __main__ - Test completed
+2025-05-15 11:34:34 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:34:44 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a70340970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/b134d5e65d5dff4f67f538d87e6842ed
+2025-05-15 11:34:44 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a70340ca0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/b134d5e65d5dff4f67f538d87e6842ed
+2025-05-15 11:34:44 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a7029e3a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/b134d5e65d5dff4f67f538d87e6842ed
+2025-05-15 11:34:44 - INFO - __main__ - Test completed
+2025-05-15 11:34:45 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:34:57 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x562a9874bd0a <unknown>
+#1 0x562a981fc5f0 <unknown>
+#2 0x562a9824da33 <unknown>
+#3 0x562a9824dc21 <unknown>
+#4 0x562a9829c274 <unknown>
+#5 0x562a9827368d <unknown>
+#6 0x562a98299660 <unknown>
+#7 0x562a98273433 <unknown>
+#8 0x562a9823fea3 <unknown>
+#9 0x562a98240b01 <unknown>
+#10 0x562a98710b5b <unknown>
+#11 0x562a98714a41 <unknown>
+#12 0x562a986f7c52 <unknown>
+#13 0x562a987155b4 <unknown>
+#14 0x562a986dbf0f <unknown>
+#15 0x562a98739db8 <unknown>
+#16 0x562a98739f96 <unknown>
+#17 0x562a9874ab56 <unknown>
+#18 0x7fc32434d609 start_thread
+
+2025-05-15 11:34:57 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x562a9874bd0a <unknown>
+#1 0x562a981fc5f0 <unknown>
+#2 0x562a9824da33 <unknown>
+#3 0x562a9824dc21 <unknown>
+#4 0x562a9829c274 <unknown>
+#5 0x562a9827368d <unknown>
+#6 0x562a98299660 <unknown>
+#7 0x562a98273433 <unknown>
+#8 0x562a9823fea3 <unknown>
+#9 0x562a98240b01 <unknown>
+#10 0x562a98710b5b <unknown>
+#11 0x562a98714a41 <unknown>
+#12 0x562a986f7c52 <unknown>
+#13 0x562a987155b4 <unknown>
+#14 0x562a986dbf0f <unknown>
+#15 0x562a98739db8 <unknown>
+#16 0x562a98739f96 <unknown>
+#17 0x562a9874ab56 <unknown>
+#18 0x7fc32434d609 start_thread
+
+2025-05-15 11:34:59 - INFO - __main__ - Test completed
+2025-05-15 11:35:08 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:35:20 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5575bfdcbd0a <unknown>
+#1 0x5575bf87c5f0 <unknown>
+#2 0x5575bf8cda33 <unknown>
+#3 0x5575bf8cdc21 <unknown>
+#4 0x5575bf91c274 <unknown>
+#5 0x5575bf8f368d <unknown>
+#6 0x5575bf919660 <unknown>
+#7 0x5575bf8f3433 <unknown>
+#8 0x5575bf8bfea3 <unknown>
+#9 0x5575bf8c0b01 <unknown>
+#10 0x5575bfd90b5b <unknown>
+#11 0x5575bfd94a41 <unknown>
+#12 0x5575bfd77c52 <unknown>
+#13 0x5575bfd955b4 <unknown>
+#14 0x5575bfd5bf0f <unknown>
+#15 0x5575bfdb9db8 <unknown>
+#16 0x5575bfdb9f96 <unknown>
+#17 0x5575bfdcab56 <unknown>
+#18 0x7f849ca87609 start_thread
+
+2025-05-15 11:35:20 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5575bfdcbd0a <unknown>
+#1 0x5575bf87c5f0 <unknown>
+#2 0x5575bf8cda33 <unknown>
+#3 0x5575bf8cdc21 <unknown>
+#4 0x5575bf91c274 <unknown>
+#5 0x5575bf8f368d <unknown>
+#6 0x5575bf919660 <unknown>
+#7 0x5575bf8f3433 <unknown>
+#8 0x5575bf8bfea3 <unknown>
+#9 0x5575bf8c0b01 <unknown>
+#10 0x5575bfd90b5b <unknown>
+#11 0x5575bfd94a41 <unknown>
+#12 0x5575bfd77c52 <unknown>
+#13 0x5575bfd955b4 <unknown>
+#14 0x5575bfd5bf0f <unknown>
+#15 0x5575bfdb9db8 <unknown>
+#16 0x5575bfdb9f96 <unknown>
+#17 0x5575bfdcab56 <unknown>
+#18 0x7f849ca87609 start_thread
+
+2025-05-15 11:35:22 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:35:36 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbc95dbd970>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1b02616322187e74ee0e20d19d324e41
+2025-05-15 11:35:36 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbc95dbde80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1b02616322187e74ee0e20d19d324e41
+2025-05-15 11:35:36 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbc95d1b3d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1b02616322187e74ee0e20d19d324e41
+2025-05-15 11:35:36 - INFO - __main__ - Test completed
+2025-05-15 11:35:37 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:35:49 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5562a4c2cd0a <unknown>
+#1 0x5562a46dd5f0 <unknown>
+#2 0x5562a472ea33 <unknown>
+#3 0x5562a472ec21 <unknown>
+#4 0x5562a477d274 <unknown>
+#5 0x5562a475468d <unknown>
+#6 0x5562a477a660 <unknown>
+#7 0x5562a4754433 <unknown>
+#8 0x5562a4720ea3 <unknown>
+#9 0x5562a4721b01 <unknown>
+#10 0x5562a4bf1b5b <unknown>
+#11 0x5562a4bf5a41 <unknown>
+#12 0x5562a4bd8c52 <unknown>
+#13 0x5562a4bf65b4 <unknown>
+#14 0x5562a4bbcf0f <unknown>
+#15 0x5562a4c1adb8 <unknown>
+#16 0x5562a4c1af96 <unknown>
+#17 0x5562a4c2bb56 <unknown>
+#18 0x7f95ce2bb609 start_thread
+
+2025-05-15 11:35:49 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5562a4c2cd0a <unknown>
+#1 0x5562a46dd5f0 <unknown>
+#2 0x5562a472ea33 <unknown>
+#3 0x5562a472ec21 <unknown>
+#4 0x5562a477d274 <unknown>
+#5 0x5562a475468d <unknown>
+#6 0x5562a477a660 <unknown>
+#7 0x5562a4754433 <unknown>
+#8 0x5562a4720ea3 <unknown>
+#9 0x5562a4721b01 <unknown>
+#10 0x5562a4bf1b5b <unknown>
+#11 0x5562a4bf5a41 <unknown>
+#12 0x5562a4bd8c52 <unknown>
+#13 0x5562a4bf65b4 <unknown>
+#14 0x5562a4bbcf0f <unknown>
+#15 0x5562a4c1adb8 <unknown>
+#16 0x5562a4c1af96 <unknown>
+#17 0x5562a4c2bb56 <unknown>
+#18 0x7f95ce2bb609 start_thread
+
+2025-05-15 11:35:52 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:36:04 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e55ddd6d0a <unknown>
+#1 0x55e55d8875f0 <unknown>
+#2 0x55e55d8d8a33 <unknown>
+#3 0x55e55d8d8c21 <unknown>
+#4 0x55e55d927274 <unknown>
+#5 0x55e55d8fe68d <unknown>
+#6 0x55e55d924660 <unknown>
+#7 0x55e55d8fe433 <unknown>
+#8 0x55e55d8caea3 <unknown>
+#9 0x55e55d8cbb01 <unknown>
+#10 0x55e55dd9bb5b <unknown>
+#11 0x55e55dd9fa41 <unknown>
+#12 0x55e55dd82c52 <unknown>
+#13 0x55e55dda05b4 <unknown>
+#14 0x55e55dd66f0f <unknown>
+#15 0x55e55ddc4db8 <unknown>
+#16 0x55e55ddc4f96 <unknown>
+#17 0x55e55ddd5b56 <unknown>
+#18 0x7fa11ecfb609 start_thread
+
+2025-05-15 11:36:04 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e55ddd6d0a <unknown>
+#1 0x55e55d8875f0 <unknown>
+#2 0x55e55d8d8a33 <unknown>
+#3 0x55e55d8d8c21 <unknown>
+#4 0x55e55d927274 <unknown>
+#5 0x55e55d8fe68d <unknown>
+#6 0x55e55d924660 <unknown>
+#7 0x55e55d8fe433 <unknown>
+#8 0x55e55d8caea3 <unknown>
+#9 0x55e55d8cbb01 <unknown>
+#10 0x55e55dd9bb5b <unknown>
+#11 0x55e55dd9fa41 <unknown>
+#12 0x55e55dd82c52 <unknown>
+#13 0x55e55dda05b4 <unknown>
+#14 0x55e55dd66f0f <unknown>
+#15 0x55e55ddc4db8 <unknown>
+#16 0x55e55ddc4f96 <unknown>
+#17 0x55e55ddd5b56 <unknown>
+#18 0x7fa11ecfb609 start_thread
+
+2025-05-15 11:36:06 - INFO - __main__ - Test completed
+2025-05-15 11:37:53 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:37:56 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:37:58 - INFO - __main__ - Test completed
+2025-05-15 11:42:32 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:42:34 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:42:34 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:42:36 - INFO - __main__ - Test completed
+2025-05-15 11:42:57 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:43:00 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:43:00 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:43:02 - INFO - __main__ - Test completed
+2025-05-15 11:44:41 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:44:43 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:44:43 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:44:45 - INFO - __main__ - Test completed
+2025-05-15 11:44:51 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:44:53 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:44:54 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:44:56 - INFO - __main__ - Test completed
+2025-05-15 11:45:17 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:45:20 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:45:20 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:45:22 - INFO - __main__ - Test completed
+2025-05-15 11:45:28 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:45:30 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:45:31 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:45:33 - INFO - __main__ - Test completed
+2025-05-15 11:45:45 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:45:48 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:45:48 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:45:49 - ERROR - Pages.TMS_page - Failed to logout from TMS: Message: element click intercepted: Element <span id="toolConnectLogin" class="cqSpanLink" onclick="dojo.publish('GBL_TOOL_CONNECT',[{'status':'TOOLBAR_CONNECT'}])" accesskey="l">...</span> is not clickable at point (1191, 19). Other element would receive the click: <div class="dijitDialogUnderlay _underlay" data-dojo-attach-point="node" id="cqLoginDialogId_underlay" style="width: 1221px; height: 1210px;"></div>
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55c7d58abd0a <unknown>
+#1 0x55c7d535c5f0 <unknown>
+#2 0x55c7d53b487c <unknown>
+#3 0x55c7d53b26dc <unknown>
+#4 0x55c7d53afd72 <unknown>
+#5 0x55c7d53af467 <unknown>
+#6 0x55c7d53a1b3d <unknown>
+#7 0x55c7d53d3662 <unknown>
+#8 0x55c7d53a14ba <unknown>
+#9 0x55c7d53d382e <unknown>
+#10 0x55c7d53f9660 <unknown>
+#11 0x55c7d53d3433 <unknown>
+#12 0x55c7d539fea3 <unknown>
+#13 0x55c7d53a0b01 <unknown>
+#14 0x55c7d5870b5b <unknown>
+#15 0x55c7d5874a41 <unknown>
+#16 0x55c7d5857c52 <unknown>
+#17 0x55c7d58755b4 <unknown>
+#18 0x55c7d583bf0f <unknown>
+#19 0x55c7d5899db8 <unknown>
+#20 0x55c7d5899f96 <unknown>
+#21 0x55c7d58aab56 <unknown>
+#22 0x7f991abaf609 start_thread
+
+2025-05-15 11:45:49 - ERROR - __main__ - Unexpected error: Failed to logout from TMS: Message: element click intercepted: Element <span id="toolConnectLogin" class="cqSpanLink" onclick="dojo.publish('GBL_TOOL_CONNECT',[{'status':'TOOLBAR_CONNECT'}])" accesskey="l">...</span> is not clickable at point (1191, 19). Other element would receive the click: <div class="dijitDialogUnderlay _underlay" data-dojo-attach-point="node" id="cqLoginDialogId_underlay" style="width: 1221px; height: 1210px;"></div>
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55c7d58abd0a <unknown>
+#1 0x55c7d535c5f0 <unknown>
+#2 0x55c7d53b487c <unknown>
+#3 0x55c7d53b26dc <unknown>
+#4 0x55c7d53afd72 <unknown>
+#5 0x55c7d53af467 <unknown>
+#6 0x55c7d53a1b3d <unknown>
+#7 0x55c7d53d3662 <unknown>
+#8 0x55c7d53a14ba <unknown>
+#9 0x55c7d53d382e <unknown>
+#10 0x55c7d53f9660 <unknown>
+#11 0x55c7d53d3433 <unknown>
+#12 0x55c7d539fea3 <unknown>
+#13 0x55c7d53a0b01 <unknown>
+#14 0x55c7d5870b5b <unknown>
+#15 0x55c7d5874a41 <unknown>
+#16 0x55c7d5857c52 <unknown>
+#17 0x55c7d58755b4 <unknown>
+#18 0x55c7d583bf0f <unknown>
+#19 0x55c7d5899db8 <unknown>
+#20 0x55c7d5899f96 <unknown>
+#21 0x55c7d58aab56 <unknown>
+#22 0x7f991abaf609 start_thread
+
+2025-05-15 11:45:51 - INFO - __main__ - Test completed
+2025-05-15 11:46:16 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:46:19 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:46:19 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:46:21 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 11:46:23 - INFO - __main__ - Test completed
+2025-05-15 11:46:44 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:46:46 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:46:46 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:46:48 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 11:46:50 - INFO - __main__ - Test completed
+2025-05-15 11:47:07 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:47:10 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:47:11 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:47:12 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 11:47:14 - INFO - __main__ - Test completed
+2025-05-15 11:47:28 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:47:41 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x564717e74d0a <unknown>
+#1 0x5647179255f0 <unknown>
+#2 0x564717976a33 <unknown>
+#3 0x564717976c21 <unknown>
+#4 0x5647179c5274 <unknown>
+#5 0x56471799c68d <unknown>
+#6 0x5647179c2660 <unknown>
+#7 0x56471799c433 <unknown>
+#8 0x564717968ea3 <unknown>
+#9 0x564717969b01 <unknown>
+#10 0x564717e39b5b <unknown>
+#11 0x564717e3da41 <unknown>
+#12 0x564717e20c52 <unknown>
+#13 0x564717e3e5b4 <unknown>
+#14 0x564717e04f0f <unknown>
+#15 0x564717e62db8 <unknown>
+#16 0x564717e62f96 <unknown>
+#17 0x564717e73b56 <unknown>
+#18 0x7f67bd439609 start_thread
+
+2025-05-15 11:47:41 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x564717e74d0a <unknown>
+#1 0x5647179255f0 <unknown>
+#2 0x564717976a33 <unknown>
+#3 0x564717976c21 <unknown>
+#4 0x5647179c5274 <unknown>
+#5 0x56471799c68d <unknown>
+#6 0x5647179c2660 <unknown>
+#7 0x56471799c433 <unknown>
+#8 0x564717968ea3 <unknown>
+#9 0x564717969b01 <unknown>
+#10 0x564717e39b5b <unknown>
+#11 0x564717e3da41 <unknown>
+#12 0x564717e20c52 <unknown>
+#13 0x564717e3e5b4 <unknown>
+#14 0x564717e04f0f <unknown>
+#15 0x564717e62db8 <unknown>
+#16 0x564717e62f96 <unknown>
+#17 0x564717e73b56 <unknown>
+#18 0x7f67bd439609 start_thread
+
+2025-05-15 11:47:43 - INFO - __main__ - Test completed
+2025-05-15 11:47:50 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:47:52 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:47:54 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:48:05 - ERROR - Pages.TMS_page - Failed to logout from TMS: Message: 
+Stacktrace:
+#0 0x5602a7b52d0a <unknown>
+#1 0x5602a76035f0 <unknown>
+#2 0x5602a7654a33 <unknown>
+#3 0x5602a7654c21 <unknown>
+#4 0x5602a76a3274 <unknown>
+#5 0x5602a767a68d <unknown>
+#6 0x5602a76a0660 <unknown>
+#7 0x5602a767a433 <unknown>
+#8 0x5602a7646ea3 <unknown>
+#9 0x5602a7647b01 <unknown>
+#10 0x5602a7b17b5b <unknown>
+#11 0x5602a7b1ba41 <unknown>
+#12 0x5602a7afec52 <unknown>
+#13 0x5602a7b1c5b4 <unknown>
+#14 0x5602a7ae2f0f <unknown>
+#15 0x5602a7b40db8 <unknown>
+#16 0x5602a7b40f96 <unknown>
+#17 0x5602a7b51b56 <unknown>
+#18 0x7f9815475609 start_thread
+
+2025-05-15 11:48:05 - ERROR - __main__ - Unexpected error: Failed to logout from TMS: Message: 
+Stacktrace:
+#0 0x5602a7b52d0a <unknown>
+#1 0x5602a76035f0 <unknown>
+#2 0x5602a7654a33 <unknown>
+#3 0x5602a7654c21 <unknown>
+#4 0x5602a76a3274 <unknown>
+#5 0x5602a767a68d <unknown>
+#6 0x5602a76a0660 <unknown>
+#7 0x5602a767a433 <unknown>
+#8 0x5602a7646ea3 <unknown>
+#9 0x5602a7647b01 <unknown>
+#10 0x5602a7b17b5b <unknown>
+#11 0x5602a7b1ba41 <unknown>
+#12 0x5602a7afec52 <unknown>
+#13 0x5602a7b1c5b4 <unknown>
+#14 0x5602a7ae2f0f <unknown>
+#15 0x5602a7b40db8 <unknown>
+#16 0x5602a7b40f96 <unknown>
+#17 0x5602a7b51b56 <unknown>
+#18 0x7f9815475609 start_thread
+
+2025-05-15 11:48:07 - INFO - __main__ - Test completed
+2025-05-15 11:48:12 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:48:14 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 11:48:15 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 11:48:17 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 11:48:19 - INFO - __main__ - Test completed
+2025-05-15 11:48:31 - INFO - Config.config - All required environment variables are set.
+2025-05-15 11:48:44 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5620c0674d0a <unknown>
+#1 0x5620c01255f0 <unknown>
+#2 0x5620c0176a33 <unknown>
+#3 0x5620c0176c21 <unknown>
+#4 0x5620c01c5274 <unknown>
+#5 0x5620c019c68d <unknown>
+#6 0x5620c01c2660 <unknown>
+#7 0x5620c019c433 <unknown>
+#8 0x5620c0168ea3 <unknown>
+#9 0x5620c0169b01 <unknown>
+#10 0x5620c0639b5b <unknown>
+#11 0x5620c063da41 <unknown>
+#12 0x5620c0620c52 <unknown>
+#13 0x5620c063e5b4 <unknown>
+#14 0x5620c0604f0f <unknown>
+#15 0x5620c0662db8 <unknown>
+#16 0x5620c0662f96 <unknown>
+#17 0x5620c0673b56 <unknown>
+#18 0x7f06b5b4b609 start_thread
+
+2025-05-15 11:48:44 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5620c0674d0a <unknown>
+#1 0x5620c01255f0 <unknown>
+#2 0x5620c0176a33 <unknown>
+#3 0x5620c0176c21 <unknown>
+#4 0x5620c01c5274 <unknown>
+#5 0x5620c019c68d <unknown>
+#6 0x5620c01c2660 <unknown>
+#7 0x5620c019c433 <unknown>
+#8 0x5620c0168ea3 <unknown>
+#9 0x5620c0169b01 <unknown>
+#10 0x5620c0639b5b <unknown>
+#11 0x5620c063da41 <unknown>
+#12 0x5620c0620c52 <unknown>
+#13 0x5620c063e5b4 <unknown>
+#14 0x5620c0604f0f <unknown>
+#15 0x5620c0662db8 <unknown>
+#16 0x5620c0662f96 <unknown>
+#17 0x5620c0673b56 <unknown>
+#18 0x7f06b5b4b609 start_thread
+
+2025-05-15 11:48:47 - INFO - __main__ - Test completed

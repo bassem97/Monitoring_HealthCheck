@@ -129,40 +129,58 @@ class BasePage:
             print(f"Element did not disappear: {e}")
             return False
 
-#  create a function that accept a confirmation alert
     def accept_confirmation_alert(self):
-        # Wait for the dialog to appear
         time.sleep(1)
-
-        # Press Tab to focus on "Open xdg-open" button, then Enter to click it
-        # For Chrome on Windows/Linux, typically Tab once then Enter works
         keyboard = Controller()
 
         try:
-            # First Tab to focus the checkbox (Tab sequence depends on browser)
+
             keyboard.press(Key.tab)
             keyboard.release(Key.tab)
             time.sleep(0.5)
 
-            # Press Space to check the checkbox
+
             keyboard.press(Key.space)
             keyboard.release(Key.space)
             time.sleep(0.5)
 
-            # Tab again to move to the "Open xdg-open" button
+
             keyboard.press(Key.tab)
             keyboard.release(Key.tab)
             time.sleep(0.5)
-            #
-            # Press Enter to click the button
+
             keyboard.press(Key.enter)
             keyboard.release(Key.enter)
 
-            # Wait for dialog processing
             time.sleep(1)
 
         except Exception as e:
             self.logger.error(f"Error handling protocol dialog: {e}")
             raise
 
+    def prompt_alert(self, username, password):
+        time.sleep(1)
+        keyboard = Controller()
+
+        try:
+
+            keyboard.type(username)
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
+            time.sleep(0.5)
+
+            keyboard.type(password)
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
+            time.sleep(0.5)
+
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
+
+            keyboard.press(Key.space)
+            keyboard.release(Key.space)
+
+        except Exception as e:
+            self.logger.error(f"Error handling protocol dialog: {e}")
+            raise
 

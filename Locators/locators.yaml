@@ -50,19 +50,22 @@ LABGATE_Page:
 TMS_Page:
   USERNAME:
     by: id
-    value: userLoginname
+    value: loginId_Id
   PASSWORD:
     by: id
-    value: inputPassword
+    value: passwordId
+  REPOSITORY:
+    by: id
+    value: repositoryListId
   LOGIN_BUTTON:
-    by: class_name
-    value: btn.btn-md.btn-default.btn-block
+    by: id
+    value: loginButtonId
   SUCCESS_INDICATOR:
-    by: class_name
-    value: dashboard-container
-  LOGOUT_LINK:
-    by: link_text
-    value: Logout
+    by: id
+    value: welcomeLabel
+  LOGOUT_BUTTON:
+    by: id
+    value: toolConnectLogin
   LOGIN_FORM:
-    by: class_name
-    value: ng-pristine.ng-invalid.ng-invalid-required
+    by: id
+    value: cqLoginDialogId_title

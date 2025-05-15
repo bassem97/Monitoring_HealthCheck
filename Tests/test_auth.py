@@ -7,6 +7,7 @@ import yaml
 from Config.config import Config
 from Drivers.driver import WebDriver
 from Pages.LABGATE_page import LABGATEPage, LABGATEError
+from Pages.TMS_page import TMSPage
 from Pages.TRT_page import TRTPage
 
 logger = logging.getLogger(__name__)
@@ -23,17 +24,23 @@ def test_auth_flow():
             config = yaml.safe_load(f)
 
 
-        # Perform login & logout on TRT
-        TRT_login_page = TRTPage(driver)
-        TRT_login_page.open_page()
-        TRT_login_page.login()
-        TRT_login_page.logout()
+        # # Perform login & logout on TRT
+        # TRT_page = TRTPage(driver)
+        # TRT_page.open_page()
+        # TRT_page.login()
+        # TRT_page.logout()
 
         # # Perform login & logout on Labgate
-        # LABGATE_login_page = LABGATEPage(driver)
-        # LABGATE_login_page.open_page()
-        # LABGATE_login_page.login()
-        # LABGATE_login_page.logout()
+        # LABGATE_page = LABGATEPage(driver)
+        # LABGATE_page.open_page()
+        # LABGATE_page.login()
+        # LABGATE_page.logout()
+
+        # Perform login & logout on Labgate
+        TMS_page = TMSPage(driver)
+        TMS_page.open_page()
+        TMS_page.login()
+        TMS_page.logout()
 
 
 

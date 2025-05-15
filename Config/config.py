@@ -52,6 +52,9 @@ class Config:
     TMS_USERNAME = os.getenv("TMS_USERNAME")
     LABGATE_USERNAME = os.getenv("LABGATE_USERNAME")
     PASSWORD = os.getenv("PASSWORD")
+    TMS_COMMON_USERNAME = os.getenv("TMS_COMMON_USERNAME")
+    TMS_COMMON_PASSWORD = os.getenv("TMS_COMMON_PASSWORD")
+    TMS_REPOSITORY = os.getenv("TMS_REPOSITORY")
     TRT_URL = os.getenv("TRT_URL")
     TMS_URL = os.getenv("TMS_URL")
     LABGATE_URL = os.getenv("LABGATE_URL")
@@ -60,15 +63,37 @@ class Config:
     @staticmethod
     def validate():
         logger = logging.getLogger(__name__)
-        if (not Config.TRT_USERNAME or
-                not Config.TRT_USERNAME or
-                not Config.LABGATE_USERNAME or
-                not Config.PASSWORD):
-            logger.error("Username or password not found in environment variables")
-            raise ValueError("Username or password not found in environment variables")
-        if not Config.TRT_URL or not Config.TMS_URL or not Config.LABGATE_URL:
-            logger.error("URL not found in environment variables")
-            raise ValueError("URL not found in environment variables")
+        if not Config.TRT_USERNAME:
+            logger.error("TRT_USERNAME is not set in the environment variables.")
+            raise ValueError("TRT_USERNAME is not set in the environment variables.")
+        if not Config.TMS_USERNAME:
+            logger.error("TMS_USERNAME is not set in the environment variables.")
+            raise ValueError("TMS_USERNAME is not set in the environment variables.")
+        if not Config.LABGATE_USERNAME:
+            logger.error("LABGATE_USERNAME is not set in the environment variables.")
+            raise ValueError("LABGATE_USERNAME is not set in the environment variables.")
+        if not Config.PASSWORD:
+            logger.error("PASSWORD is not set in the environment variables.")
+            raise ValueError("PASSWORD is not set in the environment variables.")
+        if not Config.TMS_COMMON_USERNAME:
+            logger.error("TMS_COMMON_USERNAME is not set in the environment variables.")
+            raise ValueError("TMS_COMMON_USERNAME is not set in the environment variables.")
+        if not Config.TMS_COMMON_PASSWORD:
+            logger.error("TMS_COMMON_PASSWORD is not set in the environment variables.")
+            raise ValueError("TMS_COMMON_PASSWORD is not set in the environment variables.")
+        if not Config.TMS_REPOSITORY:
+            logger.error("TMS_REPOSITORY is not set in the environment variables.")
+            raise ValueError("TMS_REPOSITORY is not set in the environment variables.")
+        if not Config.TRT_URL:
+            logger.error("TRT_URL is not set in the environment variables.")
+            raise ValueError("TRT_URL is not set in the environment variables.")
+        if not Config.TMS_URL:
+            logger.error("TMS_URL is not set in the environment variables.")
+            raise ValueError("TMS_URL is not set in the environment variables.")
+        if not Config.LABGATE_URL:
+            logger.error("LABGATE_URL is not set in the environment variables.")
+            raise ValueError("LABGATE_URL is not set in the environment variables.")
         if not Config.CHROMEDRIVER_PATH:
             logger.error("You need to set the path to the chromedriver executable in the environment variables")
             raise ValueError("You need to set the path to the chromedriver executable in the environment variables")
+        logger.info("All required environment variables are set.")
