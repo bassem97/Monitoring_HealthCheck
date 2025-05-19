@@ -8287,3 +8287,433 @@ Stacktrace:
 #18 0x7f06b5b4b609 start_thread
 
 2025-05-15 11:48:47 - INFO - __main__ - Test completed
+2025-05-15 17:12:47 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:13:10 - ERROR - Pages.TMS_page - Failed to send email notification: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a1f5a2d2ffsm23300218f8f.66 - gsmtp')
+2025-05-15 17:13:10 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e2739b2d0a <unknown>
+#1 0x55e2734635f0 <unknown>
+#2 0x55e2734b4a33 <unknown>
+#3 0x55e2734b4c21 <unknown>
+#4 0x55e273503274 <unknown>
+#5 0x55e2734da68d <unknown>
+#6 0x55e273500660 <unknown>
+#7 0x55e2734da433 <unknown>
+#8 0x55e2734a6ea3 <unknown>
+#9 0x55e2734a7b01 <unknown>
+#10 0x55e273977b5b <unknown>
+#11 0x55e27397ba41 <unknown>
+#12 0x55e27395ec52 <unknown>
+#13 0x55e27397c5b4 <unknown>
+#14 0x55e273942f0f <unknown>
+#15 0x55e2739a0db8 <unknown>
+#16 0x55e2739a0f96 <unknown>
+#17 0x55e2739b1b56 <unknown>
+#18 0x7f7bac7cf609 start_thread
+
+2025-05-15 17:13:10 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55e2739b2d0a <unknown>
+#1 0x55e2734635f0 <unknown>
+#2 0x55e2734b4a33 <unknown>
+#3 0x55e2734b4c21 <unknown>
+#4 0x55e273503274 <unknown>
+#5 0x55e2734da68d <unknown>
+#6 0x55e273500660 <unknown>
+#7 0x55e2734da433 <unknown>
+#8 0x55e2734a6ea3 <unknown>
+#9 0x55e2734a7b01 <unknown>
+#10 0x55e273977b5b <unknown>
+#11 0x55e27397ba41 <unknown>
+#12 0x55e27395ec52 <unknown>
+#13 0x55e27397c5b4 <unknown>
+#14 0x55e273942f0f <unknown>
+#15 0x55e2739a0db8 <unknown>
+#16 0x55e2739a0f96 <unknown>
+#17 0x55e2739b1b56 <unknown>
+#18 0x7f7bac7cf609 start_thread
+
+2025-05-15 17:13:12 - INFO - __main__ - Test completed
+2025-05-15 17:13:24 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:13:37 - ERROR - Pages.TMS_page - Failed to send email notification: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a35c02245fsm753586f8f.1 - gsmtp')
+2025-05-15 17:13:37 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55596607bd0a <unknown>
+#1 0x555965b2c5f0 <unknown>
+#2 0x555965b7da33 <unknown>
+#3 0x555965b7dc21 <unknown>
+#4 0x555965bcc274 <unknown>
+#5 0x555965ba368d <unknown>
+#6 0x555965bc9660 <unknown>
+#7 0x555965ba3433 <unknown>
+#8 0x555965b6fea3 <unknown>
+#9 0x555965b70b01 <unknown>
+#10 0x555966040b5b <unknown>
+#11 0x555966044a41 <unknown>
+#12 0x555966027c52 <unknown>
+#13 0x5559660455b4 <unknown>
+#14 0x55596600bf0f <unknown>
+#15 0x555966069db8 <unknown>
+#16 0x555966069f96 <unknown>
+#17 0x55596607ab56 <unknown>
+#18 0x7fea18f27609 start_thread
+
+2025-05-15 17:13:37 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x55596607bd0a <unknown>
+#1 0x555965b2c5f0 <unknown>
+#2 0x555965b7da33 <unknown>
+#3 0x555965b7dc21 <unknown>
+#4 0x555965bcc274 <unknown>
+#5 0x555965ba368d <unknown>
+#6 0x555965bc9660 <unknown>
+#7 0x555965ba3433 <unknown>
+#8 0x555965b6fea3 <unknown>
+#9 0x555965b70b01 <unknown>
+#10 0x555966040b5b <unknown>
+#11 0x555966044a41 <unknown>
+#12 0x555966027c52 <unknown>
+#13 0x5559660455b4 <unknown>
+#14 0x55596600bf0f <unknown>
+#15 0x555966069db8 <unknown>
+#16 0x555966069f96 <unknown>
+#17 0x55596607ab56 <unknown>
+#18 0x7fea18f27609 start_thread
+
+2025-05-15 17:13:39 - INFO - __main__ - Test completed
+2025-05-15 17:15:34 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:15:54 - ERROR - Pages.TMS_page - Failed to send email notification: (535, b'5.7.139 Authentication unsuccessful, the request did not meet the criteria to be authenticated successfully. Contact your administrator. [FR4P281CA0027.DEUP281.PROD.OUTLOOK.COM 2025-05-15T15:15:54.273Z 08DD9333E36B57BB]')
+2025-05-15 17:15:54 - ERROR - Pages.TMS_page - Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5606d0badd0a <unknown>
+#1 0x5606d065e5f0 <unknown>
+#2 0x5606d06afa33 <unknown>
+#3 0x5606d06afc21 <unknown>
+#4 0x5606d06fe274 <unknown>
+#5 0x5606d06d568d <unknown>
+#6 0x5606d06fb660 <unknown>
+#7 0x5606d06d5433 <unknown>
+#8 0x5606d06a1ea3 <unknown>
+#9 0x5606d06a2b01 <unknown>
+#10 0x5606d0b72b5b <unknown>
+#11 0x5606d0b76a41 <unknown>
+#12 0x5606d0b59c52 <unknown>
+#13 0x5606d0b775b4 <unknown>
+#14 0x5606d0b3df0f <unknown>
+#15 0x5606d0b9bdb8 <unknown>
+#16 0x5606d0b9bf96 <unknown>
+#17 0x5606d0bacb56 <unknown>
+#18 0x7fabca8cc609 start_thread
+
+2025-05-15 17:15:54 - ERROR - __main__ - Unexpected error: Failed to open TMS page: Message: 
+Stacktrace:
+#0 0x5606d0badd0a <unknown>
+#1 0x5606d065e5f0 <unknown>
+#2 0x5606d06afa33 <unknown>
+#3 0x5606d06afc21 <unknown>
+#4 0x5606d06fe274 <unknown>
+#5 0x5606d06d568d <unknown>
+#6 0x5606d06fb660 <unknown>
+#7 0x5606d06d5433 <unknown>
+#8 0x5606d06a1ea3 <unknown>
+#9 0x5606d06a2b01 <unknown>
+#10 0x5606d0b72b5b <unknown>
+#11 0x5606d0b76a41 <unknown>
+#12 0x5606d0b59c52 <unknown>
+#13 0x5606d0b775b4 <unknown>
+#14 0x5606d0b3df0f <unknown>
+#15 0x5606d0b9bdb8 <unknown>
+#16 0x5606d0b9bf96 <unknown>
+#17 0x5606d0bacb56 <unknown>
+#18 0x7fabca8cc609 start_thread
+
+2025-05-15 17:15:56 - INFO - __main__ - Test completed
+2025-05-15 17:19:13 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:21:52 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6c7c7e0ee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ce37192b4823c564ace7c2906ec0c0f9
+2025-05-15 17:21:52 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6c7c72fb80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ce37192b4823c564ace7c2906ec0c0f9
+2025-05-15 17:21:52 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6c7c72fac0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ce37192b4823c564ace7c2906ec0c0f9
+2025-05-15 17:21:52 - INFO - __main__ - Test completed
+2025-05-15 17:22:05 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:22:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3869f67ee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/021927421fd15b4384c78485ba54150f
+2025-05-15 17:22:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3869eb5b80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/021927421fd15b4384c78485ba54150f
+2025-05-15 17:22:28 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3869eb5ac0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/021927421fd15b4384c78485ba54150f
+2025-05-15 17:22:28 - INFO - __main__ - Test completed
+2025-05-15 17:23:19 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:23:19 - ERROR - __main__ - Unexpected error: maximum recursion depth exceeded
+2025-05-15 17:23:21 - INFO - __main__ - Test completed
+2025-05-15 17:23:47 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:23:47 - ERROR - __main__ - Unexpected error: maximum recursion depth exceeded
+2025-05-15 17:23:49 - INFO - __main__ - Test completed
+2025-05-15 17:26:10 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:26:42 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843c8764f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a71c47da17c947b0af11950517eb2fc5
+2025-05-15 17:26:42 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843c87c1f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a71c47da17c947b0af11950517eb2fc5
+2025-05-15 17:26:42 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843c87c4f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a71c47da17c947b0af11950517eb2fc5
+2025-05-15 17:26:42 - INFO - __main__ - Test completed
+2025-05-15 17:29:49 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:29:55 - ERROR - __main__ - Failed to send email notification: (535, b'5.7.139 Authentication unsuccessful, the request did not meet the criteria to be authenticated successfully. Contact your administrator. [FR4P281CA0069.DEUP281.PROD.OUTLOOK.COM 2025-05-15T15:29:55.225Z 08DD937DA092486D]')
+2025-05-15 17:29:57 - INFO - __main__ - Test completed
+2025-05-15 17:34:32 - INFO - Config.config - All required environment variables are set.
+2025-05-15 17:34:34 - INFO - __main__ - Email notification sent successfully.
+2025-05-15 17:34:36 - INFO - __main__ - Test completed
+2025-05-15 18:10:21 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:10:49 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:11:06 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:11:36 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:12:37 - ERROR - Config.config - CHROMEDRIVER_PATH is not set
+2025-05-15 18:12:58 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:13:23 - ERROR - __main__ - Unexpected error: type object 'Config' has no attribute '_load_config'
+2025-05-15 18:13:25 - INFO - __main__ - Test completed
+2025-05-15 18:13:36 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:13:39 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 18:13:40 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 18:13:41 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 18:13:43 - INFO - __main__ - Test completed
+2025-05-15 18:18:21 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:22:15 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:23:03 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:24:12 - ERROR - __main__ - Unexpected error: type object 'Config' has no attribute '_load_config'
+2025-05-15 18:24:14 - INFO - __main__ - Test completed
+2025-05-15 18:24:19 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:24:19 - ERROR - __main__ - Unexpected error: type object 'Config' has no attribute 'get_logger'
+2025-05-15 18:24:22 - INFO - __main__ - Test completed
+2025-05-15 18:24:33 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:24:36 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 18:24:37 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 18:24:39 - ERROR - Pages.TMS_page - Failed to logout from TMS: Message: element click intercepted: Element <span id="toolConnectLogin" class="cqSpanLink" onclick="dojo.publish('GBL_TOOL_CONNECT',[{'status':'TOOLBAR_CONNECT'}])" accesskey="l">...</span> is not clickable at point (1191, 19). Other element would receive the click: <div class="dijitDialogUnderlay _underlay" data-dojo-attach-point="node" id="cqLoginDialogId_underlay" style="width: 1221px; height: 1210px;"></div>
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55f47b73cd0a <unknown>
+#1 0x55f47b1ed5f0 <unknown>
+#2 0x55f47b24587c <unknown>
+#3 0x55f47b2436dc <unknown>
+#4 0x55f47b240d72 <unknown>
+#5 0x55f47b240467 <unknown>
+#6 0x55f47b232b3d <unknown>
+#7 0x55f47b264662 <unknown>
+#8 0x55f47b2324ba <unknown>
+#9 0x55f47b26482e <unknown>
+#10 0x55f47b28a660 <unknown>
+#11 0x55f47b264433 <unknown>
+#12 0x55f47b230ea3 <unknown>
+#13 0x55f47b231b01 <unknown>
+#14 0x55f47b701b5b <unknown>
+#15 0x55f47b705a41 <unknown>
+#16 0x55f47b6e8c52 <unknown>
+#17 0x55f47b7065b4 <unknown>
+#18 0x55f47b6ccf0f <unknown>
+#19 0x55f47b72adb8 <unknown>
+#20 0x55f47b72af96 <unknown>
+#21 0x55f47b73bb56 <unknown>
+#22 0x7f022001f609 start_thread
+
+2025-05-15 18:24:39 - ERROR - __main__ - Unexpected error: Failed to logout from TMS: Message: element click intercepted: Element <span id="toolConnectLogin" class="cqSpanLink" onclick="dojo.publish('GBL_TOOL_CONNECT',[{'status':'TOOLBAR_CONNECT'}])" accesskey="l">...</span> is not clickable at point (1191, 19). Other element would receive the click: <div class="dijitDialogUnderlay _underlay" data-dojo-attach-point="node" id="cqLoginDialogId_underlay" style="width: 1221px; height: 1210px;"></div>
+  (Session info: chrome=135.0.7049.84)
+Stacktrace:
+#0 0x55f47b73cd0a <unknown>
+#1 0x55f47b1ed5f0 <unknown>
+#2 0x55f47b24587c <unknown>
+#3 0x55f47b2436dc <unknown>
+#4 0x55f47b240d72 <unknown>
+#5 0x55f47b240467 <unknown>
+#6 0x55f47b232b3d <unknown>
+#7 0x55f47b264662 <unknown>
+#8 0x55f47b2324ba <unknown>
+#9 0x55f47b26482e <unknown>
+#10 0x55f47b28a660 <unknown>
+#11 0x55f47b264433 <unknown>
+#12 0x55f47b230ea3 <unknown>
+#13 0x55f47b231b01 <unknown>
+#14 0x55f47b701b5b <unknown>
+#15 0x55f47b705a41 <unknown>
+#16 0x55f47b6e8c52 <unknown>
+#17 0x55f47b7065b4 <unknown>
+#18 0x55f47b6ccf0f <unknown>
+#19 0x55f47b72adb8 <unknown>
+#20 0x55f47b72af96 <unknown>
+#21 0x55f47b73bb56 <unknown>
+#22 0x7f022001f609 start_thread
+
+2025-05-15 18:24:41 - INFO - __main__ - Test completed
+2025-05-15 18:24:47 - INFO - Config.config - All required environment variables are set.
+2025-05-15 18:24:50 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-15 18:24:51 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-15 18:24:52 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-15 18:24:54 - INFO - __main__ - Test completed
+2025-05-16 11:09:56 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:09:59 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:10:00 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:10:02 - INFO - __main__ - Test completed
+2025-05-16 11:10:52 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:10:54 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:10:56 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:10:58 - INFO - __main__ - Test completed
+2025-05-16 11:11:21 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:11:24 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:11:25 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:11:27 - INFO - __main__ - Test completed
+2025-05-16 11:14:40 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:14:43 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:14:44 - ERROR - Pages.TMS_page - Failed to send email notification: (554, b'5.2.252 SendAsDenied; bassem.jadoui@spie-network-services.com not allowed to send as No-Reply-LabGateLab-HealthCheck@ncc.de.o2.com; STOREDRV.Submission.Exception:SendAsDeniedException.MapiExceptionSendAsDenied; Failed to process message due to a permanent exception with message [BeginDiagnosticData]Cannot submit message. 1.84300:01000000, 1.84300:0B000000, 1.84300:0A000000, 1.84300:0A000000, 1.84300:0E000000, 1.84300:32000000, 1.108572:00000000, 0.117068:07000000, 1.79180:0B000000, 1.79180:0A000000, 1.79180:0A000000, 1.79180:0E000000, 1.79180:32000000, 1.79180:FA000000, 255.73100:2C000000, 5.95292:67000000446F526F70730063, 8.111356:9552F9FE86593ECC1F1F572B2F8F6BAC682A4DD6, 0.38698:8F5F19C9, 1.41134:86000000, 1.41134:86000000, 1.41134:86000000, 1.41134:46000000, 0.37692:140F12A2, 0.37948:82000100, 5.33852:00000000534D5450005F19C9, 7.36354:010000000000010901000000, 1.46439:0A000000, 1.115228:00000000, 1.44903:25000000, 1.115228:00000000, 4.56248:DC040000, 7.40748:010000000000010BC1000000, 7.57132:000000000000000082000100, 4.39640:DC040000, 1.63016:32000000, 8.45434:9B808BE3B7C4184296260F426DCB948A00000000, 0.104348:3CE76823, 5.46798:040000004D61696C4974656D5375626D697373696F6E0010FAE14C00, 7.51330:55A02F195A94DD0800000000, 5.10786:0000000031352E32302E383732322E3032373A445537505230394D42383035383A32333638653733632D633833332D343736392D386235622D6463653363376265313363393A3335343538343A2E4E455420382E302E313500000100, 0.39570:01000000, 1.55954:0B000000, 0.40818:15000000, 1.33010:0B000000, 2.54258:00000000, 0.59634:07000000, 1.56562:00000000, 1.33010:0B000000, 2.54258:00000000, 0.59634:56000000, 1.56562:00000000, 1.55954:0A000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.55954:0A000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:1C000000, 1.56562:00000000, 1.64146:0E000000, 1.33010:0E000000, 2.54258:00000000, 1.33010:0E000000, 2.54258:00000000, 1.64146:32000000, 1.33010:32000000, 2.54258:DC040000, 1.33010:32000000, 2.54258:DC040000, 255.79500:00000000, 0.100684:00000000, 255.66700:00000000, 5.95292:67000000446F526F70730063, 8.111356:9552F9FE86593ECC1F1F572B2F8F6BAC682A4DD6, 0.38698:8F5F19C9, 1.41134:86000000, 1.41134:86000000, 1.41134:86000000, 1.41134:46000000, 0.37692:140F12A2, 0.37948:82000100, 5.33852:00000000534D5450005F19C9, 7.36354:010000000000010901000000, 1.46439:0A000000, 1.115228:00000000, 1.44903:25000000, 1.115228:00000000, 4.56248:DC040000, 7.40748:010000000000010BC1000000, 7.57132:000000000000000082000100, 4.39640:DC040000, 1.63016:32000000, 8.45434:9B808BE3B7C4184296260F426DCB948A00000000, 0.104348:3CE76823, 5.46798:040000004D61696C4974656D5375626D697373696F6E0010FAE14C00, 7.51330:55A02F195A94DD0800000000, 5.10786:0000000031352E32302E383732322E3032373A445537505230394D42383035383A32333638653733632D633833332D343736392D386235622D6463653363376265313363393A3335343538343A2E4E455420382E302E313500000100, 0.39570:01000000, 1.55954:0B000000, 0.40818:15000000, 1.33010:0B000000, 2.54258:00000000, 0.59634:07000000, 1.56562:00000000, 1.33010:0B000000, 2.54258:00000000, 0.59634:56000000, 1.56562:00000000, 1.55954:0A000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.55954:0A000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:00000000, 1.56562:00000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:1C000000, 1.56562:00000000, 1.64146:0E000000, 1.33010:0E000000, 2.54258:00000000, 1.33010:0E000000, 2.54258:00000000, 1.64146:32000000, 1.33010:32000000, 2.54258:DC040000, 1.33010:32000000, 2.54258:DC040000, 255.97900:00000000, 4.120460:DC040000, 1.52466:02000000, 1.52466:02000000, 1.42738:05000000, 0.37698:07000000, 1.42738:05000000, 0.37698:79000000, 1.52466:01000000, 0.60402:02000000, 1.52466:01000000[EndDiagnosticData] [Hostname=DU7PR09MB8058.eurprd09.prod.outlook.com]')
+2025-05-16 11:14:46 - INFO - __main__ - Test completed
+2025-05-16 11:15:04 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:15:06 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:15:07 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:15:09 - INFO - __main__ - Test completed
+2025-05-16 11:15:41 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:15:44 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:15:45 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:15:47 - INFO - __main__ - Test completed
+2025-05-16 11:39:05 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:39:07 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:39:08 - ERROR - Pages.TMS_page - Failed to send email notification: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-05-16 11:39:10 - INFO - __main__ - Test completed
+2025-05-16 11:42:21 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:42:24 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:42:25 - INFO - Pages.TMS_page - Email notification sent successfully.
+2025-05-16 11:42:27 - INFO - __main__ - Test completed
+2025-05-16 11:46:12 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:46:12 - ERROR - __main__ - Unexpected error: type object 'Config' has no attribute 'get_logger'
+2025-05-16 11:46:14 - INFO - __main__ - Test completed
+2025-05-16 11:46:52 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:46:52 - ERROR - __main__ - Unexpected error: type object 'Config' has no attribute 'get_logger'
+2025-05-16 11:46:54 - INFO - __main__ - Test completed
+2025-05-16 11:47:32 - INFO - Config.config - All required environment variables are set.
+2025-05-16 11:47:34 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-16 11:47:34 - INFO - Pages.TMS_page - Connecting to smtp.office365.com:587
+2025-05-16 11:47:35 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-05-16 11:47:35 - INFO - Pages.TMS_page - Sending email...
+2025-05-16 11:47:35 - INFO - Pages.TMS_page - Email sent successfully.
+2025-05-16 11:47:37 - INFO - __main__ - Test completed
+2025-05-19 13:00:33 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:00:34 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 13:00:36 - INFO - __main__ - Test completed
+2025-05-19 13:01:51 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:01:52 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 13:01:54 - INFO - __main__ - Test completed
+2025-05-19 13:02:07 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:02:18 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:02:20 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:02:20 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:02:21 - INFO - Pages.TRT_page - Email sent successfully.
+2025-05-19 13:02:21 - ERROR - Pages.TRT_page - Failed to open TRT page: Message: 
+Stacktrace:
+#0 0x558edd60dd0a <unknown>
+#1 0x558edd0be5f0 <unknown>
+#2 0x558edd10fa33 <unknown>
+#3 0x558edd10fc21 <unknown>
+#4 0x558edd15e274 <unknown>
+#5 0x558edd13568d <unknown>
+#6 0x558edd15b660 <unknown>
+#7 0x558edd135433 <unknown>
+#8 0x558edd101ea3 <unknown>
+#9 0x558edd102b01 <unknown>
+#10 0x558edd5d2b5b <unknown>
+#11 0x558edd5d6a41 <unknown>
+#12 0x558edd5b9c52 <unknown>
+#13 0x558edd5d75b4 <unknown>
+#14 0x558edd59df0f <unknown>
+#15 0x558edd5fbdb8 <unknown>
+#16 0x558edd5fbf96 <unknown>
+#17 0x558edd60cb56 <unknown>
+#18 0x7fd711f09609 start_thread
+
+2025-05-19 13:02:21 - ERROR - __main__ - Unexpected error: Failed to open TRT page: Message: 
+Stacktrace:
+#0 0x558edd60dd0a <unknown>
+#1 0x558edd0be5f0 <unknown>
+#2 0x558edd10fa33 <unknown>
+#3 0x558edd10fc21 <unknown>
+#4 0x558edd15e274 <unknown>
+#5 0x558edd13568d <unknown>
+#6 0x558edd15b660 <unknown>
+#7 0x558edd135433 <unknown>
+#8 0x558edd101ea3 <unknown>
+#9 0x558edd102b01 <unknown>
+#10 0x558edd5d2b5b <unknown>
+#11 0x558edd5d6a41 <unknown>
+#12 0x558edd5b9c52 <unknown>
+#13 0x558edd5d75b4 <unknown>
+#14 0x558edd59df0f <unknown>
+#15 0x558edd5fbdb8 <unknown>
+#16 0x558edd5fbf96 <unknown>
+#17 0x558edd60cb56 <unknown>
+#18 0x7fd711f09609 start_thread
+
+2025-05-19 13:02:23 - INFO - __main__ - Test completed
+2025-05-19 13:08:52 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:09:03 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:09:03 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:09:03 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:09:04 - INFO - Pages.TRT_page - Email sent successfully.
+2025-05-19 13:09:04 - ERROR - Pages.TRT_page - Failed to open TRT page
+2025-05-19 13:09:04 - ERROR - __main__ - Unexpected error: Failed to open TRT page
+2025-05-19 13:09:06 - INFO - __main__ - Test completed
+2025-05-19 13:11:14 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:11:19 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:11:19 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:11:19 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:11:22 - WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb5befcfee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9482d9758d54b99fad974307c839d04e
+2025-05-19 13:11:22 - WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb5befd2a30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9482d9758d54b99fad974307c839d04e
+2025-05-19 13:11:22 - WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb5befd2910>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9482d9758d54b99fad974307c839d04e
+2025-05-19 13:11:22 - INFO - __main__ - Test completed
+2025-05-19 13:11:32 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:11:33 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 13:11:44 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:11:44 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:11:44 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:11:44 - INFO - Pages.TRT_page - Email sent successfully.
+2025-05-19 13:11:44 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 13:11:44 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 13:11:46 - INFO - __main__ - Test completed
+2025-05-19 13:12:37 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:12:37 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 13:12:48 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:12:48 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:12:48 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:12:49 - INFO - Pages.TRT_page - Email sent successfully.
+2025-05-19 13:12:49 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 13:12:49 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 13:12:51 - INFO - __main__ - Test completed
+2025-05-19 13:14:39 - INFO - Config.config - All required environment variables are set.
+2025-05-19 13:14:40 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 13:14:50 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 13:14:51 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 13:14:51 - INFO - Pages.TRT_page - Sending email...
+2025-05-19 13:14:51 - INFO - Pages.TRT_page - Email sent successfully.
+2025-05-19 13:14:51 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 13:14:51 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 13:14:53 - INFO - __main__ - Test completed
+2025-05-19 14:15:43 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:15:43 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 14:15:54 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 14:15:54 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 14:15:54 - INFO - Pages.TRT_page - Sending email to 2 recipients...
+2025-05-19 14:15:55 - INFO - Pages.TRT_page - Email sent successfully to bassemjadoui1996@gmail.com
+2025-05-19 14:15:55 - INFO - Pages.TRT_page - Email sent successfully to info@sytaxeror.com
+2025-05-19 14:15:55 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 14:15:55 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 14:15:55 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 14:15:57 - INFO - __main__ - Test completed
+2025-05-19 14:20:46 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:20:47 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 14:20:57 - INFO - Pages.TRT_page - Connecting to None:587
+2025-05-19 14:20:57 - ERROR - Pages.TRT_page - Failed to send email: please run connect() first
+2025-05-19 14:20:57 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-05-19 14:20:57 - ERROR - __main__ - Unexpected error: please run connect() first
+2025-05-19 14:20:59 - INFO - __main__ - Test completed
+2025-05-19 14:21:45 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:21:45 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 14:21:46 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 14:21:56 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 14:21:57 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 14:21:57 - INFO - Pages.TRT_page - Sending email to 2 recipients...
+2025-05-19 14:21:57 - INFO - Pages.TRT_page - Email sent successfully to bassemjadoui1996@gmail.com
+2025-05-19 14:21:57 - INFO - Pages.TRT_page - Email sent successfully to info@sytaxeror.com
+2025-05-19 14:21:57 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 14:21:57 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 14:21:57 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 14:22:00 - INFO - __main__ - Test completed
+2025-05-19 14:22:14 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:22:14 - ERROR - Config.email_config - EMAIL_SENDER is not set in the environment variables.
+2025-05-19 14:22:14 - ERROR - __main__ - Unexpected error: EMAIL_SENDER is not set in the environment variables.
+2025-05-19 14:22:16 - INFO - __main__ - Test completed

@@ -27,8 +27,10 @@ class TMSPage(BasePage):
             self.prompt_alert(Config.TMS_COMMON_USERNAME, Config.TMS_COMMON_PASSWORD)
             self.wait.until(EC.presence_of_element_located(LOCATORS.TMS_Page.LOGIN_FORM))
             self.logger.info("TMS Page opened successfully!")
+            self.email_success_notification("TMS", Config.TMS_URL)
         except Exception as e:
-            error_msg = f"Failed to open TMS page: {str(e)}"
+            error_msg = f"Failed to open TMS page"
+            self.email_failure_notification("TMS Page", Config.TMS_URL, error_msg)
             self.logger.error(error_msg)
             raise TMSError(error_msg)
 
@@ -42,7 +44,8 @@ class TMSPage(BasePage):
             time.sleep(1)
             self.logger.info("TMS Login successful!")
         except Exception as e:
-            error_msg = f"Failed to login to TMS: {str(e)}"
+            error_msg = f"Failed to login to TMS"
+            self.email_failure_notification("TMS Page", Config.TMS_URL, error_msg)
             self.logger.error(error_msg)
             raise TMSError(error_msg)
 
@@ -51,8 +54,10 @@ class TMSPage(BasePage):
             time.sleep(1)
             self.click_element(*LOCATORS.TMS_Page.LOGOUT_BUTTON)
             self.wait.until(EC.presence_of_element_located(LOCATORS.TMS_Page.LOGIN_FORM))
+            self.email_success_notification("TMS website", Config.TMS_URL)
             self.logger.info("TMS Logout successful!")
         except Exception as e:
-            error_msg = f"Failed to logout from TMS: {str(e)}"
+            error_msg = f"Failed to logout from TMS"
+            self.email_failure_notification("TMS Page", Config.TMS_URL, error_msg)
             self.logger.error(error_msg)
             raise TMSError(error_msg)

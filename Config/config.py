@@ -52,12 +52,16 @@ class Config:
     TMS_USERNAME = os.getenv("TMS_USERNAME")
     LABGATE_USERNAME = os.getenv("LABGATE_USERNAME")
     PASSWORD = os.getenv("PASSWORD")
+
     TMS_COMMON_USERNAME = os.getenv("TMS_COMMON_USERNAME")
     TMS_COMMON_PASSWORD = os.getenv("TMS_COMMON_PASSWORD")
     TMS_REPOSITORY = os.getenv("TMS_REPOSITORY")
+
     TRT_URL = os.getenv("TRT_URL")
     TMS_URL = os.getenv("TMS_URL")
     LABGATE_URL = os.getenv("LABGATE_URL")
+
+
     CHROMEDRIVER_PATH = os.getenv("CHROMEDRIVER_PATH")
 
     @staticmethod

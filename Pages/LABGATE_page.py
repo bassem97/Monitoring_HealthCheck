@@ -26,7 +26,8 @@ class LABGATEPage(BasePage):
             self.wait.until(EC.presence_of_element_located(LOCATORS.LABGATE_Page.LOGIN_FORM))
             self.logger.info("LABGATE Page opened successfully!")
         except Exception as e:
-            error_msg = f"Failed to open LABGATE page: {str(e)}"
+            error_msg = f"Failed to open LABGATE page"
+            self.email_failure_notification("LABGATE Page", Config.LABGATE_URL, error_msg)
             self.logger.error(error_msg)
             raise LABGATEError(error_msg)
 
@@ -40,7 +41,8 @@ class LABGATEPage(BasePage):
             self.wait.until(EC.presence_of_element_located(LOCATORS.LABGATE_Page.SUCCESS_INDICATOR))
             self.logger.info("LABGATE Login successful!")
         except Exception as e:
-            error_msg = f"Failed to login to LABGATE: {str(e)}"
+            error_msg = f"Failed to login to LABGATE"
+            self.email_failure_notification("LABGATE Page", Config.LABGATE_URL, error_msg)
             self.logger.error(error_msg)
             raise LABGATEError(error_msg)
 
@@ -49,8 +51,10 @@ class LABGATEPage(BasePage):
             self.click_element(*LOCATORS.LABGATE_Page.SETTINGS_BUTTON)
             self.click_element(*LOCATORS.LABGATE_Page.LOGOUT_LINK)
             self.wait.until(EC.presence_of_element_located(LOCATORS.LABGATE_Page.LOGOFF_SUCCESS_INDICATOR))
+            self.email_success_notification("LABGATE website", Config.LABGATE_URL)
             self.logger.info("LABGATE Logout successful!")
         except Exception as e:
-            error_msg = f"Failed to logout from LABGATE: {str(e)}"
+            error_msg = f"Failed to logout from LABGATE"
+            self.email_failure_notification("LABGATE Page", Config.LABGATE_URL, error_msg)
             self.logger.error(error_msg)
             raise LABGATEError(error_msg)

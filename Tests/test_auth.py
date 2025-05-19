@@ -5,6 +5,7 @@ import time
 import yaml
 
 from Config.config import Config
+from Config.email_config import EmailConfig
 from Drivers.driver import WebDriver
 from Pages.LABGATE_page import LABGATEPage, LABGATEError
 from Pages.TMS_page import TMSPage
@@ -17,7 +18,8 @@ def test_auth_flow():
     driver = driver_instance.get_driver()
 
     try:
-        Config.validate()  # Ensure credentials are set
+        Config.validate()
+        EmailConfig.validate()
 
         # Load configuration from YAML
         with open("test_config.yaml", "r") as f:
@@ -25,9 +27,9 @@ def test_auth_flow():
 
 
         # # Perform login & logout on TRT
-        # TRT_page = TRTPage(driver)
-        # TRT_page.open_page()
-        # TRT_page.login()
+        TRT_page = TRTPage(driver)
+        TRT_page.open_page()
+        TRT_page.login()
         # TRT_page.logout()
 
         # # Perform login & logout on Labgate
@@ -37,10 +39,10 @@ def test_auth_flow():
         # LABGATE_page.logout()
 
         # Perform login & logout on Labgate
-        TMS_page = TMSPage(driver)
-        TMS_page.open_page()
-        TMS_page.login()
-        TMS_page.logout()
+        # TMS_page = TMSPage(driver)
+        # TMS_page.open_page()
+        # TMS_page.login()
+        # TMS_page.logout()
 
 
 
