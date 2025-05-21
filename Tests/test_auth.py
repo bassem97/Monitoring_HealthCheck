@@ -30,7 +30,7 @@ def test_auth_flow():
         TRT_page = TRTPage(driver)
         TRT_page.open_page()
         TRT_page.login()
-        # TRT_page.logout()
+        TRT_page.logout()
 
         # # Perform login & logout on Labgate
         # LABGATE_page = LABGATEPage(driver)

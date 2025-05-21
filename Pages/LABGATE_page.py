@@ -21,15 +21,27 @@ class LABGATEPage(BasePage):
 
 
     def open_page(self):
-        try:
-            self.driver.get(Config.LABGATE_URL)
-            self.wait.until(EC.presence_of_element_located(LOCATORS.LABGATE_Page.LOGIN_FORM))
-            self.logger.info("LABGATE Page opened successfully!")
-        except Exception as e:
-            error_msg = f"Failed to open LABGATE page"
-            self.email_failure_notification("LABGATE Page", Config.LABGATE_URL, error_msg)
-            self.logger.error(error_msg)
-            raise LABGATEError(error_msg)
+        max_attempts = 3
+
+        for attempt in range(1, max_attempts + 1):
+            try:
+                self.driver.get(Config.LABGATE_URL)
+                self.wait.until(EC.presence_of_element_located(LOCATORS.LABGATE_Page.LOGIN_FORM))
+                self.logger.info("LABGATE Page opened successfully!")
+                return
+
+            except Exception as e:
+                if attempt < max_attempts:
+                    self.logger.warning(
+                        f"Attempt {attempt} to open LABGATE page failed: {e!r}. Retrying..."
+                    )
+                    time.sleep(2)
+                else:
+                    error_msg = f"Failed to open LABGATE page after {max_attempts} attempts."
+                    self.email_failure_notification("LABGATE page", Config.LABGATE_URL, error_msg)
+                    self.logger.error(error_msg)
+                    raise LABGATEError(error_msg)
+
 
     def login(self):
         try:

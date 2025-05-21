@@ -1,6 +1,6 @@
 import logging
+import time
 
-from selenium.webdriver.common.by import By
 from Pages.base_page import BasePage
 from Config.config import Config
 from selenium.webdriver.support import expected_conditions as EC
@@ -18,15 +18,26 @@ class TRTPage(BasePage):
         self.logger = logging.getLogger(__name__)
 
     def open_page(self):
-        try:
-            self.driver.get(Config.TRT_URL)
-            self.wait.until(EC.presence_of_element_located(LOCATORS.TRT_Page.LOGIN_FORM))
-            self.logger.info("TRT Page opened successfully!")
-        except Exception as e:
-            error_msg = f"Failed to open TRT page"
-            self.email_failure_notification("TRT Page", Config.TRT_URL, error_msg)
-            self.logger.error(error_msg)
-            raise TRTError(error_msg)
+        max_attempts = 3
+
+        for attempt in range(1, max_attempts + 1):
+            try:
+                self.driver.get(Config.TRT_URL)
+                self.wait.until(EC.presence_of_element_located(LOCATORS.TRT_Page.LOGIN_FORM))
+                self.logger.info(f"TRT page opened successfully on attempt {attempt}.")
+                return
+
+            except Exception as e:
+                if attempt < max_attempts:
+                    self.logger.warning(
+                        f"Attempt {attempt} to open TRT page failed: {e!r}. Retrying..."
+                    )
+                    time.sleep(2)
+                else:
+                    error_msg = f"Failed to open TRT page after {max_attempts} attempts."
+                    self.email_failure_notification("TRT Page", Config.TRT_URL, error_msg)
+                    self.logger.error(error_msg)
+                    raise TRTError(error_msg)
 
     def login(self):
         try:

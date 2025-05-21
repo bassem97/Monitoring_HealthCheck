@@ -22,17 +22,27 @@ class TMSPage(BasePage):
 
 
     def open_page(self):
-        try:
-            self.driver.get(Config.TMS_URL)
-            self.prompt_alert(Config.TMS_COMMON_USERNAME, Config.TMS_COMMON_PASSWORD)
-            self.wait.until(EC.presence_of_element_located(LOCATORS.TMS_Page.LOGIN_FORM))
-            self.logger.info("TMS Page opened successfully!")
-            self.email_success_notification("TMS", Config.TMS_URL)
-        except Exception as e:
-            error_msg = f"Failed to open TMS page"
-            self.email_failure_notification("TMS Page", Config.TMS_URL, error_msg)
-            self.logger.error(error_msg)
-            raise TMSError(error_msg)
+        max_attempts = 3
+        for attempt in range(1, max_attempts + 1):
+            try:
+                self.driver.get(Config.TMS_URL)
+                self.prompt_alert(Config.TMS_COMMON_USERNAME, Config.TMS_COMMON_PASSWORD)
+                self.wait.until(EC.presence_of_element_located(LOCATORS.TMS_Page.LOGIN_FORM))
+                self.logger.info("TMS Page opened successfully!")
+                return
+
+            except Exception as e:
+                if attempt < max_attempts:
+                    self.logger.warning(
+                        f"Attempt {attempt} to open TMS page failed: {e!r}. Retrying..."
+                    )
+                    time.sleep(2)
+                else:
+                    error_msg = f"Failed to open TMS page after {max_attempts} attempts."
+                    self.email_failure_notification("TMS page", Config.TMS_URL, error_msg)
+                    self.logger.error(error_msg)
+                    raise TMSError(error_msg)
+
 
     def login(self):
         try:

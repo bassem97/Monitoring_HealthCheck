@@ -8717,3 +8717,83 @@ Stacktrace:
 2025-05-19 14:22:14 - ERROR - Config.email_config - EMAIL_SENDER is not set in the environment variables.
 2025-05-19 14:22:14 - ERROR - __main__ - Unexpected error: EMAIL_SENDER is not set in the environment variables.
 2025-05-19 14:22:16 - INFO - __main__ - Test completed
+2025-05-19 14:22:59 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:22:59 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 14:22:59 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 14:23:00 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-19 14:23:02 - INFO - __main__ - Test completed
+2025-05-19 14:24:34 - INFO - Config.config - All required environment variables are set.
+2025-05-19 14:24:34 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 14:24:35 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 14:24:36 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-19 14:24:37 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 14:24:37 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 14:24:37 - INFO - Pages.TRT_page - Sending email to 2 recipients...
+2025-05-19 14:24:38 - INFO - Pages.TRT_page - Email sent successfully to bja@slash.digital
+2025-05-19 14:24:38 - INFO - Pages.TRT_page - Email sent successfully to arij.hajji@hotmail.com
+2025-05-19 14:24:38 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 14:24:38 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-19 14:24:40 - INFO - __main__ - Test completed
+2025-05-19 15:56:59 - INFO - Config.config - All required environment variables are set.
+2025-05-19 15:56:59 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 15:56:59 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 15:57:01 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-19 15:57:01 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 15:57:02 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 15:57:02 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-19 15:57:03 - INFO - Pages.TRT_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-05-19 15:57:03 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 15:57:03 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-19 15:57:03 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-05-19 15:57:08 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - Connecting to smtp.office365.com:587
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-05-19 15:57:09 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-05-19 15:57:12 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-05-19 15:57:12 - INFO - Pages.TMS_page - Connecting to smtp.office365.com:587
+2025-05-19 15:57:13 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-05-19 15:57:13 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-05-19 15:57:13 - INFO - Pages.TMS_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-05-19 15:57:13 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-05-19 15:57:14 - INFO - Pages.TMS_page - TMS Login successful!
+2025-05-19 15:57:15 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-05-19 15:57:16 - INFO - Pages.TMS_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-05-19 15:57:16 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-05-19 15:57:16 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-05-19 15:57:18 - INFO - __main__ - Test completed
+2025-05-19 15:59:08 - INFO - Config.config - All required environment variables are set.
+2025-05-19 15:59:08 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 15:59:19 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 15:59:20 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 15:59:20 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-19 15:59:20 - INFO - Pages.TRT_page - Email sent successfully to vinothkumar.saravanan@spie-network-services.com
+2025-05-19 15:59:20 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 15:59:20 - ERROR - Pages.TRT_page - Failed to open TRT page
+2025-05-19 15:59:20 - ERROR - __main__ - Unexpected error: Failed to open TRT page
+2025-05-19 15:59:22 - INFO - __main__ - Test completed
+2025-05-19 16:01:15 - INFO - Config.config - All required environment variables are set.
+2025-05-19 16:01:15 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-19 16:01:15 - INFO - Pages.TRT_page - TRT Page opened successfully!
+2025-05-19 16:01:26 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-19 16:01:26 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-19 16:01:26 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-19 16:01:27 - INFO - Pages.TRT_page - Email sent successfully to vinothkumar.saravanan@spie-network-services.com
+2025-05-19 16:01:27 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-19 16:01:27 - ERROR - Pages.TRT_page - Failed to login to TRT page
+2025-05-19 16:01:27 - ERROR - __main__ - Unexpected error: Failed to login to TRT page
+2025-05-19 16:01:29 - INFO - __main__ - Test completed
+2025-05-21 16:14:57 - INFO - Config.config - All required environment variables are set.
+2025-05-21 16:14:57 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-21 16:15:08 - WARNING - Pages.TRT_page - Attempt 1 to open TRT page failed: TimeoutException(). Retrying...
+2025-05-21 16:15:21 - WARNING - Pages.TRT_page - Attempt 2 to open TRT page failed: TimeoutException(). Retrying...
+2025-05-21 16:15:33 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-21 16:15:35 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-21 16:15:35 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-21 16:15:35 - INFO - Pages.TRT_page - Email sent successfully to vinothkumar.saravanan@spie-network-services.com
+2025-05-21 16:15:35 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-21 16:15:35 - ERROR - Pages.TRT_page - Failed to open TRT page after 3 attempts.
+2025-05-21 16:15:35 - ERROR - __main__ - Unexpected error: Failed to open TRT page after 3 attempts.
+2025-05-21 16:15:37 - INFO - __main__ - Test completed
