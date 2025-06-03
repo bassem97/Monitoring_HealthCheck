@@ -13,18 +13,13 @@ from Pages.TRT_page import TRTPage
 
 logger = logging.getLogger(__name__)
 
-def test_auth_flow():
+def main():
     driver_instance = WebDriver()
     driver = driver_instance.get_driver()
 
     try:
         Config.validate()
         EmailConfig.validate()
-
-        # Load configuration from YAML
-        with open("test_config.yaml", "r") as f:
-            config = yaml.safe_load(f)
-
 
         # # Perform login & logout on TRT
         TRT_page = TRTPage(driver)
@@ -64,4 +59,4 @@ def test_auth_flow():
             logger.info("Test completed")
 
 if __name__ == "__main__":
-    test_auth_flow()
+    main()

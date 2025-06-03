@@ -8797,3 +8797,68 @@ Stacktrace:
 2025-05-21 16:15:35 - ERROR - Pages.TRT_page - Failed to open TRT page after 3 attempts.
 2025-05-21 16:15:35 - ERROR - __main__ - Unexpected error: Failed to open TRT page after 3 attempts.
 2025-05-21 16:15:37 - INFO - __main__ - Test completed
+2025-05-28 14:25:18 - INFO - Config.config - All required environment variables are set.
+2025-05-28 14:25:18 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-28 14:25:21 - WARNING - Pages.TRT_page - Attempt 1 to open TRT page failed: InvalidSessionIdException(). Retrying...
+2025-05-28 14:25:23 - WARNING - Pages.TRT_page - Attempt 2 to open TRT page failed: InvalidSessionIdException(). Retrying...
+2025-05-28 14:25:25 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-28 14:25:26 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-28 14:25:26 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-28 14:25:27 - INFO - Pages.TRT_page - Email sent successfully to vinothkumar.saravanan@spie-network-services.com
+2025-05-28 14:25:27 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-28 14:25:27 - ERROR - Pages.TRT_page - Failed to open TRT page after 3 attempts.
+2025-05-28 14:25:27 - ERROR - __main__ - Unexpected error: Failed to open TRT page after 3 attempts.
+2025-05-28 14:25:29 - INFO - __main__ - Test completed
+2025-05-28 14:25:32 - INFO - Config.config - All required environment variables are set.
+2025-05-28 14:25:32 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-05-28 14:25:32 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-05-28 14:25:34 - INFO - Pages.TRT_page - TRT Login successful!
+2025-05-28 14:25:34 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-05-28 14:25:35 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-05-28 14:25:35 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-05-28 14:25:35 - INFO - Pages.TRT_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-05-28 14:25:35 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-05-28 14:25:35 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-05-28 14:25:37 - INFO - __main__ - Test completed
+2025-06-03 17:12:35 - INFO - Config.config - All required environment variables are set.
+2025-06-03 17:12:35 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-03 17:12:36 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-03 17:12:37 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-03 17:12:38 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-06-03 17:12:39 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-03 17:12:39 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-03 17:12:40 - INFO - Pages.TRT_page - Email sent successfully to vinothkumar.saravanan@spie-network-services.com
+2025-06-03 17:12:40 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-03 17:12:40 - ERROR - Pages.TRT_page - Failed to logout from TRT
+2025-06-03 17:12:40 - ERROR - __main__ - Unexpected error: Failed to logout from TRT
+2025-06-03 17:12:42 - INFO - __main__ - Test completed
+2025-06-03 17:14:20 - INFO - Config.config - All required environment variables are set.
+2025-06-03 17:14:20 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-03 17:14:21 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-03 17:14:22 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-03 17:14:23 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-06-03 17:14:23 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-03 17:14:23 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-03 17:14:24 - INFO - Pages.TRT_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-06-03 17:14:24 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-03 17:14:24 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-03 17:14:26 - INFO - __main__ - Test completed
+2025-06-03 17:24:25 - INFO - Config.config - All required environment variables are set.
+2025-06-03 17:24:25 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-03 17:24:25 - ERROR - __main__ - Unexpected error: [Errno 2] No such file or directory: 'Tests/test_config.yaml'
+2025-06-03 17:24:27 - INFO - __main__ - Test completed
+2025-06-03 17:24:39 - INFO - Config.config - All required environment variables are set.
+2025-06-03 17:24:39 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-03 17:24:39 - ERROR - __main__ - Unexpected error: [Errno 2] No such file or directory: 'Tests/test_config.yaml'
+2025-06-03 17:24:41 - INFO - __main__ - Test completed
+2025-06-03 17:25:01 - INFO - Config.config - All required environment variables are set.
+2025-06-03 17:25:01 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-03 17:25:01 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-03 17:25:03 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-03 17:25:03 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-06-03 17:25:04 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-03 17:25:04 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-03 17:25:04 - INFO - Pages.TRT_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-06-03 17:25:04 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-03 17:25:04 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-03 17:25:06 - INFO - __main__ - Test completed

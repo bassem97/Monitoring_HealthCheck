@@ -32,7 +32,7 @@ formatter = ColoredFormatter(
 )
 
 # Handlers
-file_handler = logging.FileHandler("../Logs/selenium.log")
+file_handler = logging.FileHandler("Logs/selenium.log")
 file_handler.setFormatter(logging.Formatter(  # Plain formatter for file (no colors)
     fmt="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S"

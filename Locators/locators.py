@@ -16,7 +16,7 @@ def load_locators(locator_file):
 
 
 class Locators:
-    def __init__(self, locator_file="../Locators/locators.yaml"):
+    def __init__(self, locator_file="Locators/locators.yaml"):
         self.data = load_locators(locator_file)
         self.create_attributes()
 
