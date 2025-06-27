@@ -34,8 +34,8 @@ class BasePage:
             if not self._smtp_connection:
                 self.logger.info(f"Connecting to {self.smtp_server}:{self.smtp_port}")
                 self._smtp_connection = smtplib.SMTP(self.smtp_server, self.smtp_port)
-                self._smtp_connection.starttls()
-                self._smtp_connection.login(self.email_sender, self.email_password)
+                # self._smtp_connection.starttls()
+                # self._smtp_connection.login(self.email_sender, self.email_password)
                 self.logger.info("SMTP connection established and authenticated.")
 
             self.logger.info(f"Sending email to {len(recipients)} recipients...")

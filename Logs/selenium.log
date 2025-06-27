@@ -8862,3 +8862,333 @@ Stacktrace:
 2025-06-03 17:25:04 - INFO - Pages.TRT_page - All emails sent successfully.
 2025-06-03 17:25:04 - INFO - Pages.TRT_page - TRT Logout successful!
 2025-06-03 17:25:06 - INFO - __main__ - Test completed
+2025-06-20 00:35:30 - INFO - Config.config - All required environment variables are set.
+2025-06-20 00:35:30 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 00:35:31 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 00:35:32 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 00:35:33 - INFO - Pages.TRT_page - Connecting to smtp.office365.com:587
+2025-06-20 00:35:33 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 00:35:33 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 00:35:34 - INFO - Pages.TRT_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-06-20 00:35:34 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-20 00:35:34 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-20 00:35:36 - INFO - __main__ - Test completed
+2025-06-20 00:36:15 - INFO - Config.config - All required environment variables are set.
+2025-06-20 00:36:15 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 00:36:15 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-20 00:36:20 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-20 00:36:20 - INFO - Pages.LABGATE_page - Connecting to smtp.office365.com:587
+2025-06-20 00:36:21 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 00:36:21 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 00:36:21 - INFO - Pages.LABGATE_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-06-20 00:36:21 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-20 00:36:21 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-06-20 00:36:23 - INFO - __main__ - Test completed
+2025-06-20 12:39:44 - INFO - Config.config - All required environment variables are set.
+2025-06-20 12:39:44 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 12:39:45 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-20 12:39:50 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-20 12:39:50 - INFO - Pages.LABGATE_page - Connecting to smtp.office365.com:587
+2025-06-20 12:39:51 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 12:39:51 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 12:39:51 - INFO - Pages.LABGATE_page - Email sent successfully to balaram.rajendran@spie-network-services.com
+2025-06-20 12:39:51 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-20 12:39:51 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-06-20 12:39:53 - INFO - __main__ - Test completed
+2025-06-20 13:01:41 - INFO - Config.config - All required environment variables are set.
+2025-06-20 13:01:41 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 13:01:42 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-20 13:01:46 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-20 13:01:56 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:01:57 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:01:57 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:01:57 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:02:00 - INFO - __main__ - Test completed
+2025-06-20 13:02:15 - INFO - Config.config - All required environment variables are set.
+2025-06-20 13:02:15 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 13:02:16 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-20 13:02:20 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-20 13:02:21 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:02:22 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:02:22 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:02:22 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:03:23 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:03:23 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:03:23 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:03:25 - INFO - __main__ - Test completed
+2025-06-20 13:04:08 - INFO - Config.config - All required environment variables are set.
+2025-06-20 13:04:08 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 13:04:08 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:04:24 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:04:24 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:04:24 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:04:26 - INFO - __main__ - Test completed
+2025-06-20 13:08:20 - INFO - Config.config - All required environment variables are set.
+2025-06-20 13:08:20 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 13:08:20 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:08:20 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 13:08:20 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 13:08:21 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:08:21 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:08:21 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:08:23 - INFO - __main__ - Test completed
+2025-06-20 13:08:36 - INFO - Config.config - All required environment variables are set.
+2025-06-20 13:08:36 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 13:08:36 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 13:09:21 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 13:09:21 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 13:09:22 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:09:22 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 13:09:22 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 13:09:24 - INFO - __main__ - Test completed
+2025-06-20 16:13:04 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:13:04 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:13:04 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 16:13:04 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 16:13:04 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 16:13:05 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:13:05 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:13:05 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:13:07 - INFO - __main__ - Test completed
+2025-06-20 16:25:49 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:25:49 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:25:50 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-20 16:25:54 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-20 16:25:55 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 16:25:55 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 16:25:55 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 16:25:56 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:25:56 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:25:56 - INFO - Pages.LABGATE_page - Connecting to mail.testmob.de:25
+2025-06-20 16:25:56 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-20 16:25:56 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-20 16:25:57 - ERROR - Pages.LABGATE_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:25:57 - WARNING - Pages.LABGATE_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:25:57 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:25:59 - INFO - __main__ - Test completed
+2025-06-20 16:26:20 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:26:20 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:26:20 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:26:22 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:26:22 - INFO - Pages.TRT_page - Connecting to mail.testmob.de:25
+2025-06-20 16:26:57 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:26:57 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:26:58 - ERROR - Pages.TRT_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:26:58 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:26:58 - INFO - Pages.TRT_page - Connecting to mail.testmob.de:25
+2025-06-20 16:27:58 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:27:58 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:27:59 - ERROR - Pages.TRT_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:27:59 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:27:59 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:28:01 - INFO - __main__ - Test completed
+2025-06-20 16:29:25 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:29:25 - ERROR - Config.email_config - EMAIL_PASSWORD is not set in the environment variables.
+2025-06-20 16:29:25 - ERROR - __main__ - Unexpected error: EMAIL_PASSWORD is not set in the environment variables.
+2025-06-20 16:29:27 - INFO - __main__ - Test completed
+2025-06-20 16:29:50 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:29:50 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:29:50 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:29:51 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:29:52 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:30:01 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:30:01 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:30:01 - INFO - Pages.TRT_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-20 16:30:01 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-20 16:30:01 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-20 16:30:03 - INFO - __main__ - Test completed
+2025-06-20 16:30:48 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:30:48 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:30:49 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:30:50 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:30:51 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:30:51 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:30:51 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:30:52 - ERROR - Pages.TRT_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:30:52 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:30:52 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:30:52 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:30:52 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:30:53 - ERROR - Pages.TRT_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:30:53 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:30:53 - ERROR - __main__ - Unexpected error: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:30:56 - INFO - __main__ - Test completed
+2025-06-20 16:39:41 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:39:41 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:39:42 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:39:43 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:39:44 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:39:44 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:39:44 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:39:45 - ERROR - Pages.TRT_page - Failed to send email: Connection unexpectedly closed: [Errno 104] Connection reset by peer
+2025-06-20 16:39:45 - WARNING - Pages.TRT_page - Error closing SMTP connection: please run connect() first
+2025-06-20 16:39:45 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:40:01 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:40:01 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:40:01 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:40:03 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:40:03 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:40:45 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:40:45 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:40:45 - INFO - Pages.TRT_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-20 16:40:45 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-20 16:40:45 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-20 16:40:47 - INFO - __main__ - Test completed
+2025-06-20 16:43:06 - INFO - Config.config - All required environment variables are set.
+2025-06-20 16:43:06 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-20 16:43:07 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-20 16:43:08 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-20 16:43:09 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-20 16:43:11 - INFO - __main__ - Test completed
+2025-06-27 11:10:36 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:10:36 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:10:36 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:10:36 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:10:36 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:11:41 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:11:41 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:11:41 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:11:41 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:11:41 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:12:07 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:12:07 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:12:07 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:12:07 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:12:07 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:12:36 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:12:36 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:12:36 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:12:36 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:12:36 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:14:33 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:14:33 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:14:33 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:14:33 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:14:33 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:16:18 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:16:18 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:16:18 - INFO - WDM - There is no [linux64] chromedriver for browser 138.0.7204 in cache
+2025-06-27 11:16:18 - INFO - WDM - Get LATEST chromedriver version for google-chrome 138.0.7204
+2025-06-27 11:16:18 - INFO - WDM - About to download new driver from https://chromedriver.storage.googleapis.com/138.0.7204/chromedriver_linux64.zip
+2025-06-27 11:17:50 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:17:50 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:17:50 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:17:50 - INFO - WDM - There is no [linux64] chromedriver "138.0.7204.49" for browser google-chrome "138.0.7204" in cache
+2025-06-27 11:17:50 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:17:50 - INFO - WDM - WebDriver version 138.0.7204.49 selected
+2025-06-27 11:17:50 - INFO - WDM - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.49/linux64/chromedriver-linux64.zip
+2025-06-27 11:17:50 - INFO - WDM - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.49/linux64/chromedriver-linux64.zip
+2025-06-27 11:17:50 - INFO - WDM - Driver downloading response is 200
+2025-06-27 11:17:51 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:17:51 - INFO - WDM - Driver has been saved in cache [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49]
+2025-06-27 11:18:41 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:18:41 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:18:41 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:18:41 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:18:57 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:18:57 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:18:57 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:18:57 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:21:14 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:21:14 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:21:14 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:21:14 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:21:15 - INFO - Config.config - All required environment variables are set.
+2025-06-27 11:21:15 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-27 11:21:18 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-06-27 11:21:19 - INFO - Pages.TMS_page - TMS Login successful!
+2025-06-27 11:21:21 - INFO - Pages.TMS_page - Connecting to 10.1.40.4:25
+2025-06-27 11:21:21 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-06-27 11:21:21 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-06-27 11:21:21 - INFO - Pages.TMS_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:21:21 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-06-27 11:21:21 - ERROR - Pages.TMS_page - Failed to logout from TMS
+2025-06-27 11:21:21 - ERROR - __main__ - Unexpected error: Failed to logout from TMS
+2025-06-27 11:21:23 - INFO - __main__ - Test completed
+2025-06-27 11:21:26 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:21:27 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:21:27 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:21:27 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:21:28 - INFO - Config.config - All required environment variables are set.
+2025-06-27 11:21:28 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-27 11:21:30 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-06-27 11:21:31 - INFO - Pages.TMS_page - TMS Login successful!
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - Connecting to 10.1.40.4:25
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-06-27 11:21:32 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-06-27 11:21:34 - INFO - __main__ - Test completed
+2025-06-27 11:39:29 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:39:29 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:39:29 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:39:29 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:39:30 - INFO - Config.config - All required environment variables are set.
+2025-06-27 11:39:30 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-27 11:39:33 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-06-27 11:39:34 - INFO - Pages.TMS_page - TMS Login successful!
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - Connecting to 10.1.40.4:25
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-06-27 11:39:35 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-06-27 11:39:37 - INFO - __main__ - Test completed
+2025-06-27 11:47:39 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:47:39 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:47:39 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:47:39 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:47:40 - INFO - Config.config - All required environment variables are set.
+2025-06-27 11:47:40 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-27 11:47:40 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - Connecting to 10.1.40.4:25
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:47:45 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-27 11:47:47 - INFO - __main__ - Test completed
+2025-06-27 11:55:48 - INFO - WDM - ====== WebDriver manager ======
+2025-06-27 11:55:49 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:55:49 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-06-27 11:55:49 - INFO - WDM - Driver [/home/bjadoui/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-27 11:55:50 - INFO - Config.config - All required environment variables are set.
+2025-06-27 11:55:50 - INFO - Config.email_config - All email-related environment variables and YAML configurations are set.
+2025-06-27 11:55:50 - INFO - Pages.TRT_page - TRT page opened successfully on attempt 1.
+2025-06-27 11:55:51 - INFO - Pages.TRT_page - TRT Login successful!
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - Connecting to 10.1.40.4:25
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - SMTP connection established and authenticated.
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - Sending email to 1 recipients...
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - All emails sent successfully.
+2025-06-27 11:55:52 - INFO - Pages.TRT_page - TRT Logout successful!
+2025-06-27 11:55:53 - INFO - Pages.LABGATE_page - LABGATE Page opened successfully!
+2025-06-27 11:55:57 - INFO - Pages.LABGATE_page - LABGATE Login successful!
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - Connecting to 10.1.40.4:25
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - SMTP connection established and authenticated.
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - LABGATE Logout successful!
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - Sending email to 1 recipients...
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:55:58 - INFO - Pages.LABGATE_page - All emails sent successfully.
+2025-06-27 11:56:00 - INFO - Pages.TMS_page - TMS Page opened successfully!
+2025-06-27 11:56:01 - INFO - Pages.TMS_page - TMS Login successful!
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - Connecting to 10.1.40.4:25
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - SMTP connection established and authenticated.
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - Sending email to 1 recipients...
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - Email sent successfully to bassem.jadoui@spie-network-services.com
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - All emails sent successfully.
+2025-06-27 11:56:03 - INFO - Pages.TMS_page - TMS Logout successful!
+2025-06-27 11:56:05 - INFO - __main__ - Test completed

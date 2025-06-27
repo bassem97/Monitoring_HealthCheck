@@ -24,8 +24,8 @@ class EmailConfig:
         if not EmailConfig.EMAIL_SENDER:
             logger.error("EMAIL_SENDER is not set in the environment variables.")
             raise ValueError("EMAIL_SENDER is not set in the environment variables.")
-        if not EmailConfig.EMAIL_PASSWORD:
-            logger.error("EMAIL_PASSWORD is not set in the environment variables.")
+        # if not EmailConfig.EMAIL_PASSWORD:
+        #     logger.error("EMAIL_PASSWORD is not set in the environment variables.")
             raise ValueError("EMAIL_PASSWORD is not set in the environment variables.")
         if not EmailConfig.SMTP_SERVER:
             logger.error("SMTP_SERVER is not set in the environment variables.")

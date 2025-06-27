@@ -28,16 +28,17 @@ def main():
         TRT_page.logout()
 
         # # Perform login & logout on Labgate
-        # LABGATE_page = LABGATEPage(driver)
-        # LABGATE_page.open_page()
-        # LABGATE_page.login()
-        # LABGATE_page.logout()
+        LABGATE_page = LABGATEPage(driver)
+        LABGATE_page.open_page()
+        LABGATE_page.login()
+        LABGATE_page.logout()
+        LABGATE_page.email_success_notification("LABGATE website", Config.LABGATE_URL)
 
         # Perform login & logout on Labgate
-        # TMS_page = TMSPage(driver)
-        # TMS_page.open_page()
-        # TMS_page.login()
-        # TMS_page.logout()
+        TMS_page = TMSPage(driver)
+        TMS_page.open_page()
+        TMS_page.login()
+        TMS_page.logout()
 
 
 
